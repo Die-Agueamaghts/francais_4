@@ -435,12 +435,16 @@
     $("#backButton").hidden = state.currentIndex === 0;
     const nextButton = $("#nextButton");
     if (state.mode === "test") {
+      const answerInput = $("#answerInput");
+      const hasTypedAnswer =
+        !!answerInput && String(answerInput.value || "").trim().length > 0;
+
       nextButton.textContent = isValidated
         ? state.currentIndex === total - 1
           ? "Fertig"
           : "Weiter"
         : "Prüfen";
-      nextButton.disabled = !isValidated && !!$("#answerInput");
+      nextButton.disabled = !isValidated && !hasTypedAnswer;
     } else {
       nextButton.textContent =
         state.currentIndex === total - 1 ? "Fertig" : "Weiter";
@@ -565,6 +569,14 @@
       "aria-label",
       isQuestionPrompt ? "Antwort eingeben" : "Frage eingeben",
     );
+    input.addEventListener("input", () => {
+      const nextButton = $("#nextButton");
+      if (!nextButton) return;
+      const hasTypedAnswer = String(input.value || "").trim().length > 0;
+      nextButton.disabled =
+        state.lastValidation?.cardIndex !== state.currentIndex &&
+        !hasTypedAnswer;
+    });
     input.addEventListener("keydown", (event) => {
       if (event.key === "Enter") {
         event.preventDefault();
