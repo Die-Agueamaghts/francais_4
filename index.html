@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Französisch 4 – Vokabelkarten zum Lernen und Testen"
+    />
+    <title>Französisch 4 – Vokabeln</title>
+    <link
+      rel="stylesheet"
+      href="style/main.css?v=francais4-2026-09-20-example"
+    />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div class="brand">
+          <div class="brand-mark" aria-hidden="true">◆</div>
+          <div>
+            <h1>Französisch 4</h1>
+            <p>Vokabelkarten für Lernen und Testen</p>
+          </div>
+        </div>
+        <button
+          id="themeButton"
+          class="icon-button"
+          type="button"
+          aria-label="Dunkelmodus aktivieren"
+        >
+          <span id="themeIcon" aria-hidden="true">☾</span>
+        </button>
+      </header>
+
+      <main>
+        <section
+          id="setupScreen"
+          class="screen active"
+          aria-labelledby="setupTitle"
+        >
+          <div class="hero">
+            <span class="eyebrow">Französisch 4</span>
+            <h2 id="setupTitle">Vokabeln starten</h2>
+            <p>
+              Wähle eine Kategorie und übe die wichtigsten Wörter und Ausdrücke
+              aus dem Unterricht.
+            </p>
+          </div>
+
+          <div class="setup-grid">
+            <section class="panel">
+              <h3>Unit</h3>
+              <select
+                id="unitSelect"
+                class="select-control"
+                aria-label="Unit"
+              ></select>
+            </section>
+            <section class="panel">
+              <h3>Kapitel</h3>
+              <select
+                id="chapterSelect"
+                class="select-control"
+                aria-label="Kapitel"
+                hidden
+              ></select>
+            </section>
+            <section class="panel">
+              <h3>Modus</h3>
+              <div id="modeGrid" class="mode-grid">
+                <button
+                  class="mode-card selected"
+                  data-mode="learn"
+                  type="button"
+                >
+                  <span class="mode-icon">📖</span>
+                  <strong>Lernen</strong>
+                  <span>Frage und Antwort direkt anzeigen.</span>
+                </button>
+                <button class="mode-card" data-mode="test" type="button">
+                  <span class="mode-icon">✓</span>
+                  <strong>Test</strong>
+                  <span>Antworten sammeln und am Ende auswerten.</span>
+                </button>
+              </div>
+            </section>
+          </div>
+
+          <div class="stats-grid" aria-label="Fortschritt">
+            <div class="stat-card">
+              <span class="stat-label">Sessions</span>
+              <strong id="setupStatSessions">0</strong>
+            </div>
+            <div class="stat-card">
+              <span class="stat-label">Erfolg</span>
+              <strong id="setupStatAccuracy">0%</strong>
+            </div>
+            <div class="stat-card">
+              <span class="stat-label">Wiederholen</span>
+              <strong id="setupStatReview">0</strong>
+            </div>
+          </div>
+
+          <button
+            id="startButton"
+            class="primary-button large-button"
+            type="button"
+          >
+            Starten
+          </button>
+          <p id="setupStatus" class="status-text" role="status"></p>
+        </section>
+
+        <section
+          id="exerciseScreen"
+          class="screen"
+          aria-labelledby="exerciseTitle"
+        >
+          <div class="exercise-header">
+            <div>
+              <span id="modeLabel" class="eyebrow">Lernen</span>
+              <h2 id="exerciseTitle">Lernkarte</h2>
+            </div>
+            <div class="progress-box">
+              <span id="progressLabel">1 / 1</span>
+              <div class="progress-track" aria-hidden="true">
+                <div id="progressBar" class="progress-bar"></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="category-strip">
+            <span id="categoryLabel">Beispiele</span>
+          </div>
+
+          <div class="test-tools">
+            <button
+              id="testDirectionButton"
+              class="swap-button"
+              type="button"
+              aria-label="Frage und Antwort tauschen"
+              title="Frage und Antwort tauschen"
+              hidden
+            >
+              <span class="swap-icon" aria-hidden="true">⇄</span>
+              <span class="swap-label">Frage / Antwort</span>
+            </button>
+          </div>
+
+          <div id="flashcard" class="flashcard" aria-label="Lernkarte umdrehen">
+            <div class="flashcard-inner">
+              <div class="flashcard-face flashcard-front">
+                <span class="card-label">Frage</span>
+                <div id="questionText" class="question-text">Beispiel</div>
+                <div class="example-wrap">
+                  <span class="example-label">Beispiel</span>
+                  <div id="exampleText" class="question-example" hidden></div>
+                </div>
+              </div>
+              <div class="flashcard-face flashcard-back">
+                <span class="card-label">Antwort</span>
+                <div id="answerArea"></div>
+              </div>
+            </div>
+          </div>
+
+          <div
+            id="feedback"
+            class="feedback"
+            role="status"
+            aria-live="polite"
+          ></div>
+
+          <div class="exercise-actions">
+            <button id="backButton" class="secondary-button" type="button">
+              Zurück
+            </button>
+            <button id="nextButton" class="primary-button" type="button">
+              Weiter
+            </button>
+            <button id="finishButton" class="danger-button" type="button">
+              Beenden
+            </button>
+          </div>
+        </section>
+
+        <section id="resultScreen" class="screen" aria-labelledby="resultTitle">
+          <div class="result-card">
+            <span class="eyebrow">Auswertung</span>
+            <h2 id="resultTitle">Dein Ergebnis</h2>
+            <div class="score-circle"><span id="scorePercent">0%</span></div>
+            <p id="scoreSummary" class="score-summary">0 von 0 richtig</p>
+            <p id="resultMistakes" class="result-mistakes">Keine Fehler.</p>
+            <button
+              id="restartButton"
+              class="primary-button large-button"
+              type="button"
+            >
+              Nochmal starten
+            </button>
+            <button
+              id="retryMistakesButton"
+              class="secondary-button large-button"
+              type="button"
+              hidden
+            >
+              Falsche erneut
+            </button>
+            <button
+              id="resultHomeButton"
+              class="secondary-button large-button"
+              type="button"
+            >
+              Zur Auswahl
+            </button>
+          </div>
+        </section>
+      </main>
+
+      <footer class="footer">Französisch 4 · Vokabelkarten</footer>
+    </div>
+    <script src="app/main.js?v=francais4-2026-09-20-example" defer></script>
+  </body>
+</html>

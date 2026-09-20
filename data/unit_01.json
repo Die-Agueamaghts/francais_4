@@ -1,0 +1,250 @@
+{
+  "categories": [
+    {
+      "id": "the_blank_page",
+      "name": "La Page blanche",
+      "cards": [
+        {
+          "frensh_word": "mieux",
+          "german_word": "besser",
+          "freansh_example": "Je ferais mieux de rentrer.",
+          "german_example": "Ich sollte besser nach Hause gehen."
+        },
+        {
+          "frensh_word": "rentrer",
+          "german_word": "nach Hause gehen / zurückkehren",
+          "freansh_example": "Je ferais mieux de rentrer.",
+          "german_example": "Ich sollte besser nach Hause gehen."
+        },
+        {
+          "frensh_word": "pleurer",
+          "german_word": "weinen",
+          "freansh_example": "J'ai pleuré ?!",
+          "german_example": "Habe ich geweint?!"
+        },
+        {
+          "frensh_word": "sac",
+          "german_word": "Tasche",
+          "freansh_example": "C'est MON sac ?...",
+          "german_example": "Ist das MEINE Tasche?..."
+        },
+        {
+          "frensh_word": "trouver",
+          "german_word": "finden",
+          "freansh_example": "Elle trouve un carton dans la chambre à coucher.",
+          "german_example": "Sie findet einen Karton im Schlafzimmer."
+        },
+        {
+          "frensh_word": "clé",
+          "german_word": "Schlüssel",
+          "freansh_example": "Dans le sac, elle trouve des clés.",
+          "german_example": "In der Tasche findet sie Schlüssel."
+        },
+        {
+          "frensh_word": "carte d’identité",
+          "german_word": "Personalausweis",
+          "freansh_example": "Dans le sac, elle trouve des clés et une carte d’identité.",
+          "german_example": "In der Tasche findet sie Schlüssel und einen Personalausweis."
+        },
+        {
+          "frensh_word": "photo",
+          "german_word": "Foto",
+          "freansh_example": "Ça a l’air d’être moi sur la photo.",
+          "german_example": "Auf dem Foto sieht es so aus, als wäre ich das."
+        },
+        {
+          "frensh_word": "nom",
+          "german_word": "Name",
+          "freansh_example": "Mais ce nom... ça me dit rien non plus.",
+          "german_example": "Aber dieser Name... der sagt mir auch nichts."
+        },
+        {
+          "frensh_word": "dire",
+          "german_word": "sagen",
+          "freansh_example": "Ça me dit rien non plus.",
+          "german_example": "Das sagt mir auch nichts."
+        },
+        {
+          "frensh_word": "s’appeler",
+          "german_word": "heißen",
+          "freansh_example": "Moi je m’appelle...",
+          "german_example": "Ich heiße..."
+        },
+        {
+          "frensh_word": "arriver",
+          "german_word": "passieren / widerfahren",
+          "freansh_example": "Mais qu’est-ce qui m’arrive ?...",
+          "german_example": "Aber was passiert mit mir?..."
+        },
+        {
+          "frensh_word": "aller",
+          "german_word": "gehen / fahren",
+          "freansh_example": "Elle va à l’adresse indiquée sur la carte d’identité.",
+          "german_example": "Sie geht zu der auf dem Personalausweis angegebenen Adresse."
+        },
+        {
+          "frensh_word": "adresse",
+          "german_word": "Adresse",
+          "freansh_example": "Elle va à l’adresse indiquée sur la carte d’identité.",
+          "german_example": "Sie geht zu der auf dem Personalausweis angegebenen Adresse."
+        },
+        {
+          "frensh_word": "indiquer",
+          "german_word": "angeben / anzeigen",
+          "freansh_example": "L’adresse indiquée sur la carte d’identité.",
+          "german_example": "Die auf dem Personalausweis angegebene Adresse."
+        },
+        {
+          "frensh_word": "devant",
+          "german_word": "vor",
+          "freansh_example": "Devant la porte, elle se demande ce qu’elle va trouver.",
+          "german_example": "Vor der Tür fragt sie sich, was sie vorfinden wird."
+        },
+        {
+          "frensh_word": "porte",
+          "german_word": "Tür",
+          "freansh_example": "Devant la porte, elle se demande ce qu’elle va trouver.",
+          "german_example": "Vor der Tür fragt sie sich, was sie vorfinden wird."
+        },
+        {
+          "frensh_word": "se demander",
+          "german_word": "sich fragen",
+          "freansh_example": "Elle se demande ce qu’elle va trouver dans l’appartement.",
+          "german_example": "Sie fragt sich, was sie in der Wohnung vorfinden wird."
+        },
+        {
+          "frensh_word": "appartement",
+          "german_word": "Wohnung",
+          "freansh_example": "Elle se demande ce qu’elle va trouver dans l’appartement.",
+          "german_example": "Sie fragt sich, was sie in der Wohnung vorfinden wird."
+        },
+        {
+          "frensh_word": "entrer",
+          "german_word": "hineingehen / eintreten",
+          "freansh_example": "Elle entre.",
+          "german_example": "Sie geht hinein."
+        },
+        {
+          "frensh_word": "personne",
+          "german_word": "niemand / Person",
+          "freansh_example": "Il n’y a personne, seulement un chat.",
+          "german_example": "Es ist niemand da, nur eine Katze."
+        },
+        {
+          "frensh_word": "seulement",
+          "german_word": "nur",
+          "freansh_example": "Il n’y a personne, seulement un chat.",
+          "german_example": "Es ist niemand da, nur eine Katze."
+        },
+        {
+          "frensh_word": "chat",
+          "german_word": "Katze",
+          "freansh_example": "Il n’y a personne, seulement un chat.",
+          "german_example": "Es ist niemand da, nur eine Katze."
+        },
+        {
+          "frensh_word": "regarder",
+          "german_word": "anschauen / ansehen",
+          "freansh_example": "Elle regarde tout : les meubles, les objets, les photos.",
+          "german_example": "Sie schaut sich alles an: die Möbel, die Gegenstände, die Fotos."
+        },
+        {
+          "frensh_word": "tout",
+          "german_word": "alles / ganz",
+          "freansh_example": "Elle regarde tout : les meubles, les objets, les photos.",
+          "german_example": "Sie schaut sich alles an: die Möbel, die Gegenstände, die Fotos."
+        },
+        {
+          "frensh_word": "meuble",
+          "german_word": "Möbelstück / Möbel",
+          "freansh_example": "Elle regarde tout : les meubles, les objets, les photos.",
+          "german_example": "Sie schaut sich alles an: die Möbel, die Gegenstände, die Fotos."
+        },
+        {
+          "frensh_word": "objet",
+          "german_word": "Gegenstand / Objekt",
+          "freansh_example": "Elle regarde tout : les meubles, les objets, les photos.",
+          "german_example": "Sie schaut sich alles an: die Möbel, die Gegenstände, die Fotos."
+        },
+        {
+          "frensh_word": "reconnaître",
+          "german_word": "wiedererkennen / erkennen",
+          "freansh_example": "Mais elle ne reconnaît rien.",
+          "german_example": "Aber sie erkennt nichts wieder."
+        },
+        {
+          "frensh_word": "rien",
+          "german_word": "nichts",
+          "freansh_example": "Mais elle ne reconnaît rien.",
+          "german_example": "Aber sie erkennt nichts wieder."
+        },
+        {
+          "frensh_word": "quelques",
+          "german_word": "einige / ein paar",
+          "freansh_example": "Quelques jours plus tard, elle trouve un carton.",
+          "german_example": "Einige Tage später findet sie einen Karton."
+        },
+        {
+          "frensh_word": "jour",
+          "german_word": "Tag",
+          "freansh_example": "Quelques jours plus tard, elle trouve un carton.",
+          "german_example": "Einige Tage später findet sie einen Karton."
+        },
+        {
+          "frensh_word": "plus tard",
+          "german_word": "später",
+          "freansh_example": "Quelques jours plus tard, elle trouve un carton.",
+          "german_example": "Einige Tage später findet sie einen Karton."
+        },
+        {
+          "frensh_word": "carton",
+          "german_word": "Karton / Pappschachtel",
+          "freansh_example": "Elle trouve un carton dans la chambre à coucher.",
+          "german_example": "Sie findet einen Karton im Schlafzimmer."
+        },
+        {
+          "frensh_word": "chambre à coucher",
+          "german_word": "Schlafzimmer",
+          "freansh_example": "Elle trouve un carton dans la chambre à coucher.",
+          "german_example": "Sie findet einen Karton im Schlafzimmer."
+        },
+        {
+          "frensh_word": "genre",
+          "german_word": "Art / Sorte / eine Art von",
+          "freansh_example": "Un genre de coffre au trésor ?",
+          "german_example": "Eine Art Schatztruhe?"
+        },
+        {
+          "frensh_word": "coffre",
+          "german_word": "Truhe / Kiste",
+          "freansh_example": "Un genre de coffre au trésor ?",
+          "german_example": "Eine Art Schatztruhe?"
+        },
+        {
+          "frensh_word": "trésor",
+          "german_word": "Schatz",
+          "freansh_example": "Un genre de coffre au trésor ?",
+          "german_example": "Eine Art Schatztruhe?"
+        },
+        {
+          "frensh_word": "coffre au trésor",
+          "german_word": "Schatztruhe",
+          "freansh_example": "Un genre de coffre au trésor ?",
+          "german_example": "Eine Art Schatztruhe?"
+        }
+      ]
+    },
+    {
+      "id": "dummy_id",
+      "name": "dummy name",
+      "cards": [
+        {
+          "frensh_word": "dummy_Q",
+          "german_word": "dummy_A",
+          "french_example": "This is a placeholder example.",
+          "german_example": "Dies ist ein Platzhalter-Beispiel."
+        }
+      ]
+    }
+  ]
+}
