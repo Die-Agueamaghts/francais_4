@@ -623,6 +623,294 @@
           "german_example": "goss den Topf mit heißer Suppe, den sie gerade zubereitet hatte"
         }
       ]
+    },
+    {
+      "id": "sejour_en_romandie",
+      "name": "Séjour en Romandie",
+      "cards": [
+        {
+          "frensh_word": "un séjour",
+          "german_word": "ein Aufenthalt",
+          "freansh_example": "Séjour en Romandie",
+          "german_example": "Aufenthalt in der Westschweiz"
+        },
+        {
+          "frensh_word": "olympique",
+          "german_word": "olympisch",
+          "freansh_example": "C'est à Lausanne, capitale olympique, que se trouve le siège du CIO.",
+          "german_example": "In Lausanne, der olympischen Hauptstadt, befindet sich der Sitz des IOC."
+        },
+        {
+          "frensh_word": "une capitale",
+          "german_word": "eine Hauptstadt",
+          "freansh_example": "C'est à Lausanne, capitale olympique, que se trouve le siège du CIO.",
+          "german_example": "In Lausanne, der olympischen Hauptstadt, befindet sich der Sitz des IOC."
+        },
+        {
+          "frensh_word": "se trouver",
+          "german_word": "sich befinden",
+          "freansh_example": "C'est à Lausanne, capitale olympique, que se trouve le siège du CIO.",
+          "german_example": "In Lausanne, der olympischen Hauptstadt, befindet sich der Sitz des IOC."
+        },
+        {
+          "frensh_word": "un siège",
+          "german_word": "ein Sitz",
+          "freansh_example": "C'est à Lausanne, capitale olympique, que se trouve le siège du CIO.",
+          "german_example": "In Lausanne, der olympischen Hauptstadt, befindet sich der Sitz des IOC."
+        },
+        {
+          "frensh_word": "international",
+          "german_word": "international",
+          "freansh_example": "Comité International Olympique",
+          "german_example": "Internationales Olympisches Komitee"
+        },
+        {
+          "frensh_word": "une ville",
+          "german_word": "eine Stadt",
+          "freansh_example": "Et Genève est la ville qui compte le plus d'organisations internationales au monde.",
+          "german_example": "Und Genf ist die Stadt, die weltweit die meisten internationalen Organisationen zählt."
+        },
+        {
+          "frensh_word": "compter",
+          "german_word": "zählen / haben",
+          "freansh_example": "Et Genève est la ville qui compte le plus d'organisations internationales au monde.",
+          "german_example": "Und Genf ist die Stadt, die weltweit die meisten internationalen Organisationen zählt."
+        },
+        {
+          "frensh_word": "une organisation",
+          "german_word": "eine Organisation",
+          "freansh_example": "Et Genève est la ville qui compte le plus d'organisations internationales au monde.",
+          "german_example": "Und Genf ist die Stadt, die weltweit die meisten internationalen Organisationen zählt."
+        },
+        {
+          "frensh_word": "un monde",
+          "german_word": "eine Welt",
+          "freansh_example": "Et Genève est la ville qui compte le plus d'organisations internationales au monde.",
+          "german_example": "Und Genf ist die Stadt, die weltweit die meisten internationalen Organisationen zählt."
+        },
+        {
+          "frensh_word": "européen",
+          "german_word": "europäisch",
+          "freansh_example": "C'est là où se trouve le siège européen de l'ONU.",
+          "german_example": "Dort befindet sich der europäische Sitz der UNO."
+        },
+        {
+          "frensh_word": "uni",
+          "german_word": "vereint",
+          "freansh_example": "Office des Nations unies",
+          "german_example": "Büro der Vereinten Nationen"
+        },
+        {
+          "frensh_word": "une lutte",
+          "german_word": "ein Kampf / Schwingen",
+          "freansh_example": "La lutte suisse est un sport national.",
+          "german_example": "Schwingen ist ein Nationalsport."
+        },
+        {
+          "frensh_word": "suisse",
+          "german_word": "schweizerisch",
+          "freansh_example": "La lutte suisse est un sport national.",
+          "german_example": "Schwingen ist ein Nationalsport."
+        },
+        {
+          "frensh_word": "un sport",
+          "german_word": "ein Sport",
+          "freansh_example": "La lutte suisse est un sport national.",
+          "german_example": "Schwingen ist ein Nationalsport."
+        },
+        {
+          "frensh_word": "national",
+          "german_word": "national / Nationalsport-",
+          "freansh_example": "La lutte suisse est un sport national.",
+          "german_example": "Schwingen ist ein Nationalsport."
+        },
+        {
+          "frensh_word": "pratiquer",
+          "german_word": "ausüben / betreiben",
+          "freansh_example": "On la pratique en plein air.",
+          "german_example": "Man betreibt ihn im Freien."
+        },
+        {
+          "frensh_word": "un air",
+          "german_word": "eine Luft",
+          "freansh_example": "On la pratique en plein air.",
+          "german_example": "Man betreibt ihn im Freien."
+        },
+        {
+          "frensh_word": "plein",
+          "german_word": "voll / frei (im Freien)",
+          "freansh_example": "On la pratique en plein air.",
+          "german_example": "Man betreibt ihn im Freien."
+        },
+        {
+          "frensh_word": "représenter",
+          "german_word": "darstellen / ausmachen",
+          "freansh_example": "Les Alpes qui représentent 60 % du pays et le Jura attirent les fans de nature et de randonnée.",
+          "german_example": "Die Alpen, die 60 % des Landes ausmachen, und der Jura ziehen Natur- und Wanderfans an."
+        },
+        {
+          "frensh_word": "un pays",
+          "german_word": "ein Land",
+          "freansh_example": "Les Alpes qui représentent 60 % du pays et le Jura attirent les fans de nature et de randonnée.",
+          "german_example": "Die Alpen, die 60 % des Landes ausmachen, und der Jura ziehen Natur- und Wanderfans an."
+        },
+        {
+          "frensh_word": "attirer",
+          "german_word": "anziehen",
+          "freansh_example": "Les Alpes qui représentent 60 % du pays et le Jura attirent les fans de nature et de randonnée.",
+          "german_example": "Die Alpen, die 60 % des Landes ausmachen, und der Jura ziehen Natur- und Wanderfans an."
+        },
+        {
+          "frensh_word": "un fan",
+          "german_word": "ein Fan",
+          "freansh_example": "Les Alpes qui représentent 60 % du pays et le Jura attirent les fans de nature et de randonnée.",
+          "german_example": "Die Alpen, die 60 % des Landes ausmachen, und der Jura ziehen Natur- und Wanderfans an."
+        },
+        {
+          "frensh_word": "une nature",
+          "german_word": "eine Natur",
+          "freansh_example": "Les Alpes qui représentent 60 % du pays et le Jura attirent les fans de nature et de randonnée.",
+          "german_example": "Die Alpen, die 60 % des Landes ausmachen, und der Jura ziehen Natur- und Wanderfans an."
+        },
+        {
+          "frensh_word": "une randonnée",
+          "german_word": "eine Wanderung",
+          "freansh_example": "Les Alpes qui représentent 60 % du pays et le Jura attirent les fans de nature et de randonnée.",
+          "german_example": "Die Alpen, die 60 % des Landes ausmachen, und der Jura ziehen Natur- und Wanderfans an."
+        },
+        {
+          "frensh_word": "un hiver",
+          "german_word": "ein Winter",
+          "freansh_example": "Les sports d'hiver comme le ski ou la randonnée en raquettes sont très populaires.",
+          "german_example": "Wintersportarten wie Skifahren oder Schneeschuhwandern sind sehr beliebt."
+        },
+        {
+          "frensh_word": "un ski",
+          "german_word": "ein Ski / das Skifahren",
+          "freansh_example": "Les sports d'hiver comme le ski ou la randonnée en raquettes sont très populaires.",
+          "german_example": "Wintersportarten wie Skifahren oder Schneeschuhwandern sind sehr beliebt."
+        },
+        {
+          "frensh_word": "une raquette",
+          "german_word": "ein Schneeschuh",
+          "freansh_example": "Les sports d'hiver comme le ski ou la randonnée en raquettes sont très populaires.",
+          "german_example": "Wintersportarten wie Skifahren oder Schneeschuhwandern sind sehr beliebt."
+        },
+        {
+          "frensh_word": "populaire",
+          "german_word": "beliebt",
+          "freansh_example": "Les sports d'hiver comme le ski ou la randonnée en raquettes sont très populaires.",
+          "german_example": "Wintersportarten wie Skifahren oder Schneeschuhwandern sind sehr beliebt."
+        },
+        {
+          "frensh_word": "un canton",
+          "german_word": "ein Kanton",
+          "freansh_example": "Verbier se trouve dans le canton du Valais à 3 314 m d'altitude et compte 412 km de pistes.",
+          "german_example": "Verbier befindet sich im Kanton Wallis auf 3.314 m Höhe und zählt 412 km Pisten."
+        },
+        {
+          "frensh_word": "une altitude",
+          "german_word": "eine Höhe",
+          "freansh_example": "Verbier se trouve dans le canton du Valais à 3 314 m d'altitude et compte 412 km de pistes.",
+          "german_example": "Verbier befindet sich im Kanton Wallis auf 3.314 m Höhe und zählt 412 km Pisten."
+        },
+        {
+          "frensh_word": "une piste",
+          "german_word": "eine Piste",
+          "freansh_example": "Verbier se trouve dans le canton du Valais à 3 314 m d'altitude et compte 412 km de pistes.",
+          "german_example": "Verbier befindet sich im Kanton Wallis auf 3.314 m Höhe und zählt 412 km Pisten."
+        },
+        {
+          "frensh_word": "beau",
+          "german_word": "schön",
+          "freansh_example": "C'est une des plus belles stations de ski de Suisse romande.",
+          "german_example": "Es ist einer der schönsten Skiorte der Westschweiz."
+        },
+        {
+          "frensh_word": "une station",
+          "german_word": "ein Ort / eine Station",
+          "freansh_example": "C'est une des plus belles stations de ski de Suisse romande.",
+          "german_example": "Es ist einer der schönsten Skiorte der Westschweiz."
+        },
+        {
+          "frensh_word": "un hockey",
+          "german_word": "ein Hockey",
+          "freansh_example": "Le hockey sur glace est un des sports les plus populaires en Suisse avec le football!",
+          "german_example": "Eishockey ist neben Fußball einer der beliebtesten Sportarten in der Schweiz!"
+        },
+        {
+          "frensh_word": "une glace",
+          "german_word": "ein Eis",
+          "freansh_example": "Le hockey sur glace est un des sports les plus populaires en Suisse avec le football!",
+          "german_example": "Eishockey ist neben Fußball einer der beliebtesten Sportarten in der Schweiz!"
+        },
+        {
+          "frensh_word": "un football",
+          "german_word": "ein Fußball",
+          "freansh_example": "Le hockey sur glace est un des sports les plus populaires en Suisse avec le football!",
+          "german_example": "Eishockey ist neben Fußball einer der beliebtesten Sportarten in der Schweiz!"
+        },
+        {
+          "frensh_word": "organiser",
+          "german_word": "organisieren",
+          "freansh_example": "Le pays a déjà organisé plusieurs championnats du monde de hockey sur glace.",
+          "german_example": "Das Land hat bereits mehrere Eishockey-Weltmeisterschaften organisiert."
+        },
+        {
+          "frensh_word": "un championnat",
+          "german_word": "eine Meisterschaft",
+          "freansh_example": "Le pays a déjà organisé plusieurs championnats du monde de hockey sur glace.",
+          "german_example": "Das Land hat bereits mehrere Eishockey-Weltmeisterschaften organisiert."
+        },
+        {
+          "frensh_word": "un lac",
+          "german_word": "ein See",
+          "freansh_example": "La Suisse est un pays de lacs et de rivières.",
+          "german_example": "Die Schweiz ist ein Land der Seen und Flüsse."
+        },
+        {
+          "frensh_word": "une rivière",
+          "german_word": "ein Fluss",
+          "freansh_example": "La Suisse est un pays de lacs et de rivières.",
+          "german_example": "Die Schweiz ist ein Land der Seen und Flüsse."
+        },
+        {
+          "frensh_word": "grand",
+          "german_word": "groß",
+          "freansh_example": "Le lac Léman et le lac de Neuchâtel sont les deux plus grands lacs de Suisse romande.",
+          "german_example": "Der Genfersee und der Neuenburgersee sind die zwei größten Seen der Westschweiz."
+        },
+        {
+          "frensh_word": "nautique",
+          "german_word": "Wassersport- / nautisch",
+          "freansh_example": "Alors les sports nautiques comme la voile, le paddle, la plongée ou encore la natation sont aussi très populaires.",
+          "german_example": "Daher sind auch Wassersportarten wie Segeln, Stand-up-Paddling, Tauchen oder Schwimmen sehr beliebt."
+        },
+        {
+          "frensh_word": "une voile",
+          "german_word": "ein Segeln / Segelsport",
+          "freansh_example": "Alors les sports nautiques comme la voile, le paddle, la plongée ou encore la natation sont aussi très populaires.",
+          "german_example": "Daher sind auch Wassersportarten wie Segeln, Stand-up-Paddling, Tauchen oder Schwimmen sehr beliebt."
+        },
+        {
+          "frensh_word": "un paddle",
+          "german_word": "ein Stand-up-Paddling / Paddle",
+          "freansh_example": "Alors les sports nautiques comme la voile, le paddle, la plongée ou encore la natation sont aussi très populaires.",
+          "german_example": "Daher sind auch Wassersportarten wie Segeln, Stand-up-Paddling, Tauchen oder Schwimmen sehr beliebt."
+        },
+        {
+          "frensh_word": "une plongée",
+          "german_word": "ein Tauchen",
+          "freansh_example": "Alors les sports nautiques comme la voile, le paddle, la plongée ou encore la natation sont aussi très populaires.",
+          "german_example": "Daher sind auch Wassersportarten wie Segeln, Stand-up-Paddling, Tauchen oder Schwimmen sehr beliebt."
+        },
+        {
+          "frensh_word": "une natation",
+          "german_word": "ein Schwimmen",
+          "freansh_example": "Alors les sports nautiques comme la voile, le paddle, la plongée ou encore la natation sont aussi très populaires.",
+          "german_example": "Daher sind auch Wassersportarten wie Segeln, Stand-up-Paddling, Tauchen oder Schwimmen sehr beliebt."
+        }
+      ]
     }
   ]
 }
