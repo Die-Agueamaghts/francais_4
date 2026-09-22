@@ -1,157 +1,157 @@
 {
   "categories": [
     {
-      "id": "kapitel_01",
+      "id": "unit_02_kapitel_01",
       "name": "Kapitel 01 – Schule und Alltag",
       "cards": [
         {
-          "frensh_word": "l’école",
+          "french_word": "l’école",
           "german_word": "die Schule",
-          "freansh_example": "Je vais à l’école le matin.",
+          "french_example": "Je vais à l’école le matin.",
           "german_example": "Ich gehe morgens in die Schule."
         },
         {
-          "frensh_word": "la classe",
+          "french_word": "la classe",
           "german_word": "das Klassenzimmer / die Klasse",
-          "freansh_example": "La classe est grande aujourd’hui.",
+          "french_example": "La classe est grande aujourd’hui.",
           "german_example": "Das Klassenzimmer ist heute groß."
         },
         {
-          "frensh_word": "un professeur",
+          "french_word": "un professeur",
           "german_word": "ein Lehrer",
-          "freansh_example": "Le professeur explique la leçon.",
+          "french_example": "Le professeur explique la leçon.",
           "german_example": "Der Lehrer erklärt die Stunde."
         },
         {
-          "frensh_word": "une professeure",
+          "french_word": "une professeure",
           "german_word": "eine Lehrerin",
-          "freansh_example": "La professeure donne les devoirs.",
+          "french_example": "La professeure donne les devoirs.",
           "german_example": "Die Lehrerin gibt die Hausaufgaben."
         },
         {
-          "frensh_word": "un cahier",
+          "french_word": "un cahier",
           "german_word": "ein Heft",
-          "freansh_example": "J’écris dans mon cahier.",
+          "french_example": "J’écris dans mon cahier.",
           "german_example": "Ich schreibe in mein Heft."
         },
         {
-          "frensh_word": "un stylo",
+          "french_word": "un stylo",
           "german_word": "ein Kugelschreiber",
-          "freansh_example": "J’ai un stylo bleu.",
+          "french_example": "J’ai un stylo bleu.",
           "german_example": "Ich habe einen blauen Kugelschreiber."
         },
         {
-          "frensh_word": "une gomme",
+          "french_word": "une gomme",
           "german_word": "ein Radiergummi",
-          "freansh_example": "La gomme est dans le sac.",
+          "french_example": "La gomme est dans le sac.",
           "german_example": "Der Radiergummi liegt in der Tasche."
         },
         {
-          "frensh_word": "apprendre",
+          "french_word": "apprendre",
           "german_word": "lernen",
-          "freansh_example": "Je veux apprendre le français.",
+          "french_example": "Je veux apprendre le français.",
           "german_example": "Ich möchte Französisch lernen."
         },
         {
-          "frensh_word": "parler",
+          "french_word": "parler",
           "german_word": "sprechen",
-          "freansh_example": "Nous parlons avec nos amis.",
+          "french_example": "Nous parlons avec nos amis.",
           "german_example": "Wir sprechen mit unseren Freunden."
         },
         {
-          "frensh_word": "écouter",
+          "french_word": "écouter",
           "german_word": "hören / zuhören",
-          "freansh_example": "Il écoute la musique.",
+          "french_example": "Il écoute la musique.",
           "german_example": "Er hört Musik."
         },
         {
-          "frensh_word": "la pause",
+          "french_word": "la pause",
           "german_word": "die Pause",
-          "freansh_example": "La pause commence à midi.",
+          "french_example": "La pause commence à midi.",
           "german_example": "Die Pause beginnt mittags."
         },
         {
-          "frensh_word": "le devoir",
+          "french_word": "le devoir",
           "german_word": "die Hausaufgabe",
-          "freansh_example": "Le devoir est difficile.",
+          "french_example": "Le devoir est difficile.",
           "german_example": "Die Hausaufgabe ist schwierig."
         }
       ]
     },
     {
-      "id": "kapitel_02",
+      "id": "unit_02_kapitel_02",
       "name": "Kapitel 02 – Familie und Freunde",
       "cards": [
         {
-          "frensh_word": "la famille",
+          "french_word": "la famille",
           "german_word": "die Familie",
-          "freansh_example": "Ma famille est très sympa.",
+          "french_example": "Ma famille est très sympa.",
           "german_example": "Meine Familie ist sehr nett."
         },
         {
-          "frensh_word": "les parents",
+          "french_word": "les parents",
           "german_word": "die Eltern",
-          "freansh_example": "Mes parents travaillent beaucoup.",
+          "french_example": "Mes parents travaillent beaucoup.",
           "german_example": "Meine Eltern arbeiten viel."
         },
         {
-          "frensh_word": "le père",
+          "french_word": "le père",
           "german_word": "der Vater",
-          "freansh_example": "Mon père est très gentil.",
+          "french_example": "Mon père est très gentil.",
           "german_example": "Mein Vater ist sehr nett."
         },
         {
-          "frensh_word": "la mère",
+          "french_word": "la mère",
           "german_word": "die Mutter",
-          "freansh_example": "Ma mère aime cuisiner.",
+          "french_example": "Ma mère aime cuisiner.",
           "german_example": "Meine Mutter kocht gern."
         },
         {
-          "frensh_word": "un frère",
+          "french_word": "un frère",
           "german_word": "ein Bruder",
-          "freansh_example": "J’ai un frère plus âgé.",
+          "french_example": "J’ai un frère plus âgé.",
           "german_example": "Ich habe einen älteren Bruder."
         },
         {
-          "frensh_word": "une sœur",
+          "french_word": "une sœur",
           "german_word": "eine Schwester",
-          "freansh_example": "Elle est ma sœur.",
+          "french_example": "Elle est ma sœur.",
           "german_example": "Sie ist meine Schwester."
         },
         {
-          "frensh_word": "amical",
+          "french_word": "amical",
           "german_word": "freundschaftlich / nett",
-          "freansh_example": "Il est très amical.",
+          "french_example": "Il est très amical.",
           "german_example": "Er ist sehr freundlich."
         },
         {
-          "frensh_word": "un ami",
+          "french_word": "un ami",
           "german_word": "ein Freund",
-          "freansh_example": "Mon ami vient ce soir.",
+          "french_example": "Mon ami vient ce soir.",
           "german_example": "Mein Freund kommt heute Abend."
         },
         {
-          "frensh_word": "une amie",
+          "french_word": "une amie",
           "german_word": "eine Freundin",
-          "freansh_example": "C’est mon amie depuis l’école.",
+          "french_example": "C’est mon amie depuis l’école.",
           "german_example": "Sie ist meine Freundin seit der Schule."
         },
         {
-          "frensh_word": "aider",
+          "french_word": "aider",
           "german_word": "helfen",
-          "freansh_example": "Je peux aider mes amis.",
+          "french_example": "Je peux aider mes amis.",
           "german_example": "Ich kann meinen Freunden helfen."
         },
         {
-          "frensh_word": "se retrouver",
+          "french_word": "se retrouver",
           "german_word": "sich treffen / zusammenkommen",
-          "freansh_example": "On se retrouve au parc.",
+          "french_example": "On se retrouve au parc.",
           "german_example": "Wir treffen uns im Park."
         },
         {
-          "frensh_word": "le week-end",
+          "french_word": "le week-end",
           "german_word": "das Wochenende",
-          "freansh_example": "Le week-end, nous allons à la plage.",
+          "french_example": "Le week-end, nous allons à la plage.",
           "german_example": "Am Wochenende gehen wir an den Strand."
         }
       ]

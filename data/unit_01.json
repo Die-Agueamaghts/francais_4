@@ -5,244 +5,622 @@
       "name": "La Page blanche",
       "cards": [
         {
-          "frensh_word": "mieux",
+          "french_word": "mieux",
           "german_word": "besser",
-          "freansh_example": "Je ferais mieux de rentrer.",
+          "french_example": "Je ferais mieux de rentrer.",
           "german_example": "Ich sollte besser nach Hause gehen."
         },
         {
-          "frensh_word": "rentrer",
+          "french_word": "rentrer",
           "german_word": "nach Hause gehen / zurückkehren",
-          "freansh_example": "Je ferais mieux de rentrer.",
+          "french_example": "Je ferais mieux de rentrer.",
           "german_example": "Ich sollte besser nach Hause gehen."
         },
         {
-          "frensh_word": "pleurer",
+          "french_word": "pleurer",
           "german_word": "weinen",
-          "freansh_example": "J'ai pleuré ?!",
+          "french_example": "J'ai pleuré ?!",
           "german_example": "Habe ich geweint?!"
         },
         {
-          "frensh_word": "sac",
+          "french_word": "sac",
           "german_word": "Tasche",
-          "freansh_example": "C'est MON sac ?...",
+          "french_example": "C'est MON sac ?...",
           "german_example": "Ist das MEINE Tasche?..."
         },
         {
-          "frensh_word": "trouver",
+          "french_word": "trouver",
           "german_word": "finden",
-          "freansh_example": "Elle trouve un carton dans la chambre à coucher.",
+          "french_example": "Elle trouve un carton dans la chambre à coucher.",
           "german_example": "Sie findet einen Karton im Schlafzimmer."
         },
         {
-          "frensh_word": "clé",
+          "french_word": "clé",
           "german_word": "Schlüssel",
-          "freansh_example": "Dans le sac, elle trouve des clés.",
+          "french_example": "Dans le sac, elle trouve des clés.",
           "german_example": "In der Tasche findet sie Schlüssel."
         },
         {
-          "frensh_word": "carte d’identité",
+          "french_word": "carte d’identité",
           "german_word": "Personalausweis",
-          "freansh_example": "Dans le sac, elle trouve des clés et une carte d’identité.",
+          "french_example": "Dans le sac, elle trouve des clés et une carte d’identité.",
           "german_example": "In der Tasche findet sie Schlüssel und einen Personalausweis."
         },
         {
-          "frensh_word": "photo",
+          "french_word": "photo",
           "german_word": "Foto",
-          "freansh_example": "Ça a l’air d’être moi sur la photo.",
+          "french_example": "Ça a l’air d’être moi sur la photo.",
           "german_example": "Auf dem Foto sieht es so aus, als wäre ich das."
         },
         {
-          "frensh_word": "nom",
+          "french_word": "nom",
           "german_word": "Name",
-          "freansh_example": "Mais ce nom... ça me dit rien non plus.",
+          "french_example": "Mais ce nom... ça me dit rien non plus.",
           "german_example": "Aber dieser Name... der sagt mir auch nichts."
         },
         {
-          "frensh_word": "dire",
+          "french_word": "dire",
           "german_word": "sagen",
-          "freansh_example": "Ça me dit rien non plus.",
+          "french_example": "Ça me dit rien non plus.",
           "german_example": "Das sagt mir auch nichts."
         },
         {
-          "frensh_word": "s’appeler",
+          "french_word": "s’appeler",
           "german_word": "heißen",
-          "freansh_example": "Moi je m’appelle...",
+          "french_example": "Moi je m’appelle...",
           "german_example": "Ich heiße..."
         },
         {
-          "frensh_word": "arriver",
+          "french_word": "arriver",
           "german_word": "passieren / widerfahren",
-          "freansh_example": "Mais qu’est-ce qui m’arrive ?...",
+          "french_example": "Mais qu’est-ce qui m’arrive ?...",
           "german_example": "Aber was passiert mit mir?..."
         },
         {
-          "frensh_word": "aller",
+          "french_word": "aller",
           "german_word": "gehen / fahren",
-          "freansh_example": "Elle va à l’adresse indiquée sur la carte d’identité.",
+          "french_example": "Elle va à l’adresse indiquée sur la carte d’identité.",
           "german_example": "Sie geht zu der auf dem Personalausweis angegebenen Adresse."
         },
         {
-          "frensh_word": "adresse",
+          "french_word": "adresse",
           "german_word": "Adresse",
-          "freansh_example": "Elle va à l’adresse indiquée sur la carte d’identité.",
+          "french_example": "Elle va à l’adresse indiquée sur la carte d’identité.",
           "german_example": "Sie geht zu der auf dem Personalausweis angegebenen Adresse."
         },
         {
-          "frensh_word": "indiquer",
+          "french_word": "indiquer",
           "german_word": "angeben / anzeigen",
-          "freansh_example": "L’adresse indiquée sur la carte d’identité.",
+          "french_example": "L’adresse indiquée sur la carte d’identité.",
           "german_example": "Die auf dem Personalausweis angegebene Adresse."
         },
         {
-          "frensh_word": "devant",
+          "french_word": "devant",
           "german_word": "vor",
-          "freansh_example": "Devant la porte, elle se demande ce qu’elle va trouver.",
+          "french_example": "Devant la porte, elle se demande ce qu’elle va trouver.",
           "german_example": "Vor der Tür fragt sie sich, was sie vorfinden wird."
         },
         {
-          "frensh_word": "porte",
+          "french_word": "porte",
           "german_word": "Tür",
-          "freansh_example": "Devant la porte, elle se demande ce qu’elle va trouver.",
+          "french_example": "Devant la porte, elle se demande ce qu’elle va trouver.",
           "german_example": "Vor der Tür fragt sie sich, was sie vorfinden wird."
         },
         {
-          "frensh_word": "se demander",
+          "french_word": "se demander",
           "german_word": "sich fragen",
-          "freansh_example": "Elle se demande ce qu’elle va trouver dans l’appartement.",
+          "french_example": "Elle se demande ce qu’elle va trouver dans l’appartement.",
           "german_example": "Sie fragt sich, was sie in der Wohnung vorfinden wird."
         },
         {
-          "frensh_word": "appartement",
+          "french_word": "appartement",
           "german_word": "Wohnung",
-          "freansh_example": "Elle se demande ce qu’elle va trouver dans l’appartement.",
+          "french_example": "Elle se demande ce qu’elle va trouver dans l’appartement.",
           "german_example": "Sie fragt sich, was sie in der Wohnung vorfinden wird."
         },
         {
-          "frensh_word": "entrer",
+          "french_word": "entrer",
           "german_word": "hineingehen / eintreten",
-          "freansh_example": "Elle entre.",
+          "french_example": "Elle entre.",
           "german_example": "Sie geht hinein."
         },
         {
-          "frensh_word": "personne",
+          "french_word": "personne",
           "german_word": "niemand / Person",
-          "freansh_example": "Il n’y a personne, seulement un chat.",
+          "french_example": "Il n’y a personne, seulement un chat.",
           "german_example": "Es ist niemand da, nur eine Katze."
         },
         {
-          "frensh_word": "seulement",
+          "french_word": "seulement",
           "german_word": "nur",
-          "freansh_example": "Il n’y a personne, seulement un chat.",
+          "french_example": "Il n’y a personne, seulement un chat.",
           "german_example": "Es ist niemand da, nur eine Katze."
         },
         {
-          "frensh_word": "chat",
+          "french_word": "chat",
           "german_word": "Katze",
-          "freansh_example": "Il n’y a personne, seulement un chat.",
+          "french_example": "Il n’y a personne, seulement un chat.",
           "german_example": "Es ist niemand da, nur eine Katze."
         },
         {
-          "frensh_word": "regarder",
+          "french_word": "regarder",
           "german_word": "anschauen / ansehen",
-          "freansh_example": "Elle regarde tout : les meubles, les objets, les photos.",
+          "french_example": "Elle regarde tout : les meubles, les objets, les photos.",
           "german_example": "Sie schaut sich alles an: die Möbel, die Gegenstände, die Fotos."
         },
         {
-          "frensh_word": "tout",
+          "french_word": "tout",
           "german_word": "alles / ganz",
-          "freansh_example": "Elle regarde tout : les meubles, les objets, les photos.",
+          "french_example": "Elle regarde tout : les meubles, les objets, les photos.",
           "german_example": "Sie schaut sich alles an: die Möbel, die Gegenstände, die Fotos."
         },
         {
-          "frensh_word": "meuble",
+          "french_word": "meuble",
           "german_word": "Möbelstück / Möbel",
-          "freansh_example": "Elle regarde tout : les meubles, les objets, les photos.",
+          "french_example": "Elle regarde tout : les meubles, les objets, les photos.",
           "german_example": "Sie schaut sich alles an: die Möbel, die Gegenstände, die Fotos."
         },
         {
-          "frensh_word": "objet",
+          "french_word": "objet",
           "german_word": "Gegenstand / Objekt",
-          "freansh_example": "Elle regarde tout : les meubles, les objets, les photos.",
+          "french_example": "Elle regarde tout : les meubles, les objets, les photos.",
           "german_example": "Sie schaut sich alles an: die Möbel, die Gegenstände, die Fotos."
         },
         {
-          "frensh_word": "reconnaître",
+          "french_word": "reconnaître",
           "german_word": "wiedererkennen / erkennen",
-          "freansh_example": "Mais elle ne reconnaît rien.",
+          "french_example": "Mais elle ne reconnaît rien.",
           "german_example": "Aber sie erkennt nichts wieder."
         },
         {
-          "frensh_word": "rien",
+          "french_word": "rien",
           "german_word": "nichts",
-          "freansh_example": "Mais elle ne reconnaît rien.",
+          "french_example": "Mais elle ne reconnaît rien.",
           "german_example": "Aber sie erkennt nichts wieder."
         },
         {
-          "frensh_word": "quelques",
+          "french_word": "quelques",
           "german_word": "einige / ein paar",
-          "freansh_example": "Quelques jours plus tard, elle trouve un carton.",
+          "french_example": "Quelques jours plus tard, elle trouve un carton.",
           "german_example": "Einige Tage später findet sie einen Karton."
         },
         {
-          "frensh_word": "jour",
+          "french_word": "jour",
           "german_word": "Tag",
-          "freansh_example": "Quelques jours plus tard, elle trouve un carton.",
+          "french_example": "Quelques jours plus tard, elle trouve un carton.",
           "german_example": "Einige Tage später findet sie einen Karton."
         },
         {
-          "frensh_word": "plus tard",
+          "french_word": "plus tard",
           "german_word": "später",
-          "freansh_example": "Quelques jours plus tard, elle trouve un carton.",
+          "french_example": "Quelques jours plus tard, elle trouve un carton.",
           "german_example": "Einige Tage später findet sie einen Karton."
         },
         {
-          "frensh_word": "carton",
+          "french_word": "carton",
           "german_word": "Karton / Pappschachtel",
-          "freansh_example": "Elle trouve un carton dans la chambre à coucher.",
+          "french_example": "Elle trouve un carton dans la chambre à coucher.",
           "german_example": "Sie findet einen Karton im Schlafzimmer."
         },
         {
-          "frensh_word": "chambre à coucher",
+          "french_word": "chambre à coucher",
           "german_word": "Schlafzimmer",
-          "freansh_example": "Elle trouve un carton dans la chambre à coucher.",
+          "french_example": "Elle trouve un carton dans la chambre à coucher.",
           "german_example": "Sie findet einen Karton im Schlafzimmer."
         },
         {
-          "frensh_word": "genre",
+          "french_word": "genre",
           "german_word": "Art / Sorte / eine Art von",
-          "freansh_example": "Un genre de coffre au trésor ?",
+          "french_example": "Un genre de coffre au trésor ?",
           "german_example": "Eine Art Schatztruhe?"
         },
         {
-          "frensh_word": "coffre",
+          "french_word": "coffre",
           "german_word": "Truhe / Kiste",
-          "freansh_example": "Un genre de coffre au trésor ?",
+          "french_example": "Un genre de coffre au trésor ?",
           "german_example": "Eine Art Schatztruhe?"
         },
         {
-          "frensh_word": "trésor",
+          "french_word": "trésor",
           "german_word": "Schatz",
-          "freansh_example": "Un genre de coffre au trésor ?",
+          "french_example": "Un genre de coffre au trésor ?",
           "german_example": "Eine Art Schatztruhe?"
         },
         {
-          "frensh_word": "coffre au trésor",
+          "french_word": "coffre au trésor",
           "german_word": "Schatztruhe",
-          "freansh_example": "Un genre de coffre au trésor ?",
+          "french_example": "Un genre de coffre au trésor ?",
           "german_example": "Eine Art Schatztruhe?"
         }
       ]
     },
     {
-      "id": "dummy_id",
-      "name": "dummy name",
+      "id": "je_t_invite_a_geneve",
+      "name": "Je t'invite à Genève",
       "cards": [
         {
-          "frensh_word": "dummy_Q",
-          "german_word": "dummy_A",
-          "french_example": "This is a placeholder example.",
-          "german_example": "Dies ist ein Platzhalter-Beispiel."
+          "french_word": "une annonce",
+          "german_word": "eine Anzeige",
+          "french_example": "J'ai lu ton annonce sur Internet où tu écris que tu cherches une correspondante francophone, alors je te réponds.",
+          "german_example": "Ich habe deine Anzeige im Internet gelesen, in der du schreibst, dass du eine deutsch-französische Brieffreundin suchst, also antworte ich dir."
+        },
+        {
+          "french_word": "une correspondante",
+          "german_word": "eine Brieffreundin",
+          "french_example": "J'ai lu ton annonce sur Internet où tu écris que tu cherches une correspondante francophone, alors je te réponds.",
+          "german_example": "Ich habe deine Anzeige im Internet gelesen, in der du schreibst, dass du eine deutsch-französische Brieffreundin suchst, also antworte ich dir."
+        },
+        {
+          "french_word": "une deuxième langue",
+          "german_word": "eine zweite Sprache",
+          "french_example": "J'habite en Suisse, à Genève. [...] on apprend une deuxième langue nationale à partir de 8 ou 9 ans et moi, je suis bonne en allemand",
+          "german_example": "Ich wohne in der Schweiz, in Genf. [...] man lernt eine zweite Landessprache ab 8 oder 9 Jahren und ich bin gut in Deutsch"
+        },
+        {
+          "french_word": "un club",
+          "german_word": "ein Verein",
+          "french_example": "Je fais aussi de la natation dans un club.",
+          "german_example": "Ich schwimme auch in einem Verein."
+        },
+        {
+          "french_word": "un appareil",
+          "german_word": "eine Zahnspange",
+          "french_example": "Mais comme je porte un appareil dentaire, le fromage colle aux dents, c'est l'horreur!",
+          "german_example": "Aber da ich eine Zahnspange trage, klebt der Käse an den Zähnen, das ist der Horror!"
+        },
+        {
+          "french_word": "une bonne ambiance",
+          "german_word": "eine gute Stimmung",
+          "french_example": "On y célèbre le courage d'une femme, la mère Royaume qui, dans la nuit du 11 au 12 décembre 1602, a versé la marmite de soupe brûlante qu'elle venait de préparer sur des Savoyards qui attaquaient la ville.",
+          "german_example": "Dort feiert man den Mut einer Frau, der Mutter Royaume, die in der Nacht vom 11. auf den 12. Dezember 1602 den Topf mit heißer Suppe, den sie gerade zubereitet hatte, über die Savoyer goss, die die Stadt angriffen."
+        },
+        {
+          "french_word": "une femme",
+          "german_word": "eine Frau",
+          "french_example": "On y célèbre le courage d'une femme, la mère Royaume qui, dans la nuit du 11 au 12 décembre 1602, a versé la marmite de soupe brûlante qu'elle venait de préparer sur des Savoyards qui attaquaient la ville.",
+          "german_example": "Dort feiert man den Mut einer Frau, der Mutter Royaume, die in der Nacht vom 11. auf den 12. Dezember 1602 den Topf mit heißer Suppe, den sie gerade zubereitet hatte, über die Savoyer goss, die die Stadt angriffen."
+        },
+        {
+          "french_word": "un tas",
+          "german_word": "ein Haufen",
+          "french_example": "Ils en sont revenus avec un tas de bonbons et même un peu d'argent!",
+          "german_example": "Sie sind mit einem Haufen Bonbons und sogar etwas Geld zurückgekommen!"
+        },
+        {
+          "french_word": "une allergie",
+          "german_word": "eine Allergie",
+          "french_example": "Comme il a une allergie aux amandes, je lui donne mon chocolat et je mange sa pâte d'amandes.",
+          "german_example": "Da er eine Mandelallergie hat, gebe ich ihm meine Schokolade und esse seine Marzipanmasse."
+        },
+        {
+          "french_word": "un samedi",
+          "german_word": "ein Samstag",
+          "french_example": "Cette année, le 12 décembre, c'est un samedi.",
+          "german_example": "Dieses Jahr ist der 12. Dezember ein Samstag."
+        },
+        {
+          "french_word": "un message",
+          "german_word": "eine Nachricht",
+          "french_example": "Tu peux m'envoyer un message.",
+          "german_example": "Du kannst mir eine Nachricht schicken."
+        },
+        {
+          "french_word": "une copine",
+          "german_word": "eine Freundin",
+          "french_example": "Et après je m'en vais à la piscine avec une copine.",
+          "german_example": "Und danach gehe ich mit einer Freundin ins Schwimmbad."
+        },
+        {
+          "french_word": "écrire",
+          "german_word": "schreiben",
+          "french_example": "J'ai lu ton annonce sur Internet où tu écris que tu cherches une correspondante francophone, alors je te réponds.",
+          "german_example": "Ich habe deine Anzeige im Internet gelesen, in der du schreibst, dass du eine französischsprachige Brieffreundin suchst, also antworte ich dir."
+        },
+        {
+          "french_word": "chercher",
+          "german_word": "suchen",
+          "french_example": "J'ai lu ton annonce sur Internet où tu écris que tu cherches une correspondante francophone, alors je te réponds.",
+          "german_example": "Ich habe deine Anzeige im Internet gelesen, in der du schreibst, dass du eine französischsprachige Brieffreundin suchst, also antworte ich dir."
+        },
+        {
+          "french_word": "répondre",
+          "german_word": "antworten",
+          "french_example": "J'ai lu ton annonce sur Internet où tu écris que tu cherches une correspondante francophone, alors je te réponds.",
+          "german_example": "Ich habe deine Anzeige im Internet gelesen, in der du schreibst, dass du eine französischsprachige Brieffreundin suchst, als antworte ich dir."
+        },
+        {
+          "french_word": "demander",
+          "german_word": "fragen",
+          "french_example": "Tu te demandes peut-être pourquoi?",
+          "german_example": "Du fragst dich vielleicht warum?"
+        },
+        {
+          "french_word": "habiter",
+          "german_word": "wohnen",
+          "french_example": "J'habite en Suisse, à Genève.",
+          "german_example": "Ich wohne in der Schweiz, in Genf."
+        },
+        {
+          "french_word": "connaître",
+          "german_word": "kennen",
+          "french_example": "Tu connais la Suisse?",
+          "german_example": "Kennst du die Schweiz?"
+        },
+        {
+          "french_word": "passer",
+          "german_word": "verbringen",
+          "french_example": "J'y ai passé plusieurs fois mes vacances d'hiver.",
+          "german_example": "Ich habe dort mehrmals meine Winterferien verbracht."
+        },
+        {
+          "french_word": "adorer",
+          "german_word": "lieben",
+          "french_example": "J'adore cette ville et toi, tu en viens!",
+          "german_example": "Ich liebe diese Stadt und du, du kommst von dort!"
+        },
+        {
+          "french_word": "apprendre",
+          "german_word": "lernen",
+          "french_example": "En Suisse, on apprend une deuxième langue nationale à partir de 8 ou 9 ans",
+          "german_example": "In der Schweiz lernt man eine zweite Landessprache ab 8 oder 9 Jahren"
+        },
+        {
+          "french_word": "jouer",
+          "german_word": "spielen",
+          "french_example": "Il joue pour le Borussia Mönchengladbach!",
+          "german_example": "Er spielt für Borussia Mönchengladbach!"
+        },
+        {
+          "french_word": "porter",
+          "german_word": "tragen",
+          "french_example": "Comme je porte un appareil dentaire, le fromage colle aux dents, c'est l'horreur!",
+          "german_example": "Da ich eine Zahnspange trage, klebt der Käse an den Zähnen, das ist der Horror!"
+        },
+        {
+          "french_word": "coller",
+          "german_word": "kleben",
+          "french_example": "Le fromage colle aux dents, c'est l'horreur!",
+          "german_example": "Der Käse klebt an den Zähnen, das ist der Horror!"
+        },
+        {
+          "french_word": "se débrouiller",
+          "german_word": "zurechtkommen / klarkommen",
+          "french_example": "En cuisine, je me débrouille pas mal.",
+          "german_example": "Beim Kochen komme ich ganz gut klar."
+        },
+        {
+          "french_word": "faire",
+          "german_word": "machen",
+          "french_example": "Je fais par exemple très souvent des röstis pour toute la famille qui adore ça",
+          "german_example": "Ich mache zum Beispiel sehr oft Rösti für die ganze Familie, die das liebt"
+        },
+        {
+          "french_word": "accepter",
+          "german_word": "akzeptieren",
+          "french_example": "On s'accepte comme on est, avec nos qualités ... et nos défauts.",
+          "german_example": "Wir akzeptieren uns so wie wir sind, mit unseren Qualitäten ... und unseren Fehlern."
+        },
+        {
+          "french_word": "râler",
+          "german_word": "meckern",
+          "french_example": "Mes copains, eux, ne râlent pas, ils m'attendent, ils ne partent jamais sans moi.",
+          "german_example": "Meine Freunde meckern nicht, sie warten auf mich, sie gehen nie ohne mich weg."
+        },
+        {
+          "french_word": "attendre",
+          "german_word": "warten",
+          "french_example": "Ils m'attendent, ils ne partent jamais sans moi.",
+          "german_example": "Sie warten auf mich, sie gehen nie ohne mich weg."
+        },
+        {
+          "french_word": "partir",
+          "german_word": "weggehen / abreisen",
+          "french_example": "Ils ne partent jamais sans moi.",
+          "german_example": "Sie gehen nie ohne mich weg."
+        },
+        {
+          "french_word": "inviter",
+          "german_word": "einladen",
+          "french_example": "J'aimerais bien t'inviter à Genève et mes parents sont d'accord!",
+          "german_example": "Ich würde dich sehr gerne nach Genf einladen und meine Eltern sind einverstanden!"
+        },
+        {
+          "french_word": "fêter",
+          "german_word": "feiern",
+          "french_example": "En décembre, on pourrait fêter ensemble la fête de l'Escalade.",
+          "german_example": "Im Dezember könnten wir zusammen das Escalade-Fest feiern."
+        },
+        {
+          "french_word": "préparer",
+          "german_word": "zubereiten / vorbereiten",
+          "french_example": "...qu'elle venait de préparer sur des Savoyards qui attaquaient la ville.",
+          "german_example": "...den sie gerade zubereitet hatte, über die Savoyer, die die Stadt angriffen."
+        },
+        {
+          "french_word": "attaquer",
+          "german_word": "angreifen",
+          "french_example": "...des Savoyards qui attaquaient la ville.",
+          "german_example": "...die Savoyer, die die Stadt angriffen."
+        },
+        {
+          "french_word": "se déguiser",
+          "german_word": "sich verkleiden",
+          "french_example": "Ce jour-là, les gens se déguisent et défilent dans les rues.",
+          "german_example": "An diesem Tag verkleiden sich die Leute und ziehen durch die Straßen."
+        },
+        {
+          "french_word": "défiler",
+          "german_word": "vorbeiziehen / marschieren",
+          "french_example": "Ce jour-là, les gens se déguisent et défilent dans les rues.",
+          "german_example": "An diesem Tag verkleiden sich die Leute und ziehen durch die Straßen."
+        },
+        {
+          "french_word": "chanter",
+          "german_word": "singen",
+          "french_example": "Certains enfants se retrouvent dans le centre-ville et chantent en échange de quelques bonbons.",
+          "german_example": "Einige Kinder treffen sich im Stadtzentrum und singen im Austausch gegen ein paar Bonbons."
+        },
+        {
+          "french_word": "servir",
+          "german_word": "servieren",
+          "french_example": "Pendant la fête, on sert de la soupe de légumes dans divers endroits de la ville.",
+          "german_example": "Während des Festes serviert man Gemüsesuppe an verschiedenen Orten der Stadt."
+        },
+        {
+          "french_word": "acheter",
+          "german_word": "kaufen",
+          "french_example": "Enfin les gens achètent des marmites en chocolat.",
+          "german_example": "Schließlich kaufen die Leute Schokoladentöpfe."
+        },
+        {
+          "french_word": "trouver",
+          "german_word": "finden",
+          "french_example": "On en trouve dans la plupart des pâtisseries.",
+          "german_example": "Man findet sie in den meisten Konditoreien."
+        },
+        {
+          "french_word": "casser",
+          "german_word": "zerbrechen",
+          "french_example": "A la maison, on casse la marmite.",
+          "german_example": "Zuhause zerbricht man den Topf."
+        },
+        {
+          "french_word": "donner",
+          "german_word": "geben",
+          "french_example": "Je lui donne mon chocolat et je mange sa pâte d'amandes.",
+          "german_example": "Ich gebe ihm meine Schokolade und esse seine Marzipanmasse."
+        },
+        {
+          "french_word": "manger",
+          "german_word": "essen",
+          "french_example": "Je mange sa pâte d'amandes.",
+          "german_example": "Ich esse seine Marzipanmasse."
+        },
+        {
+          "french_word": "voir",
+          "german_word": "sehen",
+          "french_example": "Alors, on pourrait se voir du vendredi au dimanche.",
+          "german_example": "Also könnten wir uns von Freitag bis Sonntag sehen."
+        },
+        {
+          "french_word": "penser",
+          "german_word": "denken / halten",
+          "french_example": "Qu'est-ce que tu en penses?",
+          "german_example": "Was hältst du davon?"
+        },
+        {
+          "french_word": "envoyer",
+          "german_word": "schicken / senden",
+          "french_example": "Tu peux m'envoyer un message.",
+          "german_example": "Du kannst mir eine Nachricht schicken."
+        },
+        {
+          "french_word": "quitter",
+          "german_word": "verlassen / aufhören",
+          "french_example": "Je te quitte parce que ma mère vient de rentrer.",
+          "german_example": "Ich muss jetzt Schluss machen, weil meine Mutter gerade zurückgekommen ist."
+        },
+        {
+          "french_word": "rentrer",
+          "german_word": "nach Hause kommen",
+          "french_example": "Ma mère vient de rentrer.",
+          "german_example": "Meine Mutter ist gerade nach Hause gekommen."
+        },
+        {
+          "french_word": "parler",
+          "german_word": "sprechen / reden",
+          "french_example": "On doit absolument parler de ma fête d'anniv.",
+          "german_example": "Wir müssen unbedingt über meine Geburtstagsfeier sprechen."
+        },
+        {
+          "french_word": "s'en aller",
+          "german_word": "weggehen / gehen",
+          "french_example": "Et après je m'en vais à la piscine avec une copine.",
+          "german_example": "Und danach gehe ich mit einer Freundin ins Schwimmbad."
+        },
+        {
+          "french_word": "francophone",
+          "german_word": "französischsprachig",
+          "french_example": "tu cherches une correspondante francophone",
+          "german_example": "du suchst eine französischsprachige Brieffreundin"
+        },
+        {
+          "french_word": "seul",
+          "german_word": "einzige",
+          "french_example": "Garmisch-Partenkirchen qui est la seule ville allemande que je connais",
+          "german_example": "Garmisch-Partenkirchen, das die einzige deutsche Stadt ist, die ich kenne"
+        },
+        {
+          "french_word": "allemand",
+          "german_word": "deutsch",
+          "french_example": "Garmisch-Partenkirchen qui est la seule ville allemande que je connais",
+          "german_example": "Garmisch-Partenkirchen, das die einzige deutsche Stadt ist, die ich kenne"
+        },
+        {
+          "french_word": "dingue",
+          "german_word": "verrückt",
+          "french_example": "C'est dingue, non?",
+          "german_example": "Das ist verrückt, oder?"
+        },
+        {
+          "french_word": "pratique",
+          "german_word": "praktisch",
+          "french_example": "C'est pratique!",
+          "german_example": "Das ist praktisch!"
+        },
+        {
+          "french_word": "bon",
+          "german_word": "gut",
+          "french_example": "Je suis bonne en allemand",
+          "german_example": "Ich bin gut in Deutsch"
+        },
+        {
+          "french_word": "national",
+          "german_word": "national / Landessprache",
+          "french_example": "on apprend une deuxième langue nationale",
+          "german_example": "man lernt eine zweite Landessprache"
+        },
+        {
+          "french_word": "nul",
+          "german_word": "schlecht / Niete",
+          "french_example": "je suis nulle en musique.",
+          "german_example": "ich bin schlecht in Musik."
+        },
+        {
+          "french_word": "préféré",
+          "german_word": "Lieblings- / bevorzugt",
+          "french_example": "c'est mon joueur préféré!",
+          "german_example": "das ist mein Lieblingsspieler!"
+        },
+        {
+          "french_word": "gourmand",
+          "german_word": "naschhaft / leckermaul",
+          "french_example": "je suis très gourmande.",
+          "german_example": "ich bin ein großes Leckermaul."
+        },
+        {
+          "french_word": "dentaire",
+          "german_word": "Zahn-",
+          "french_example": "mais comme je porte un appareil dentaire",
+          "german_example": "aber da ich eine Zahnspange trage"
+        },
+        {
+          "french_word": "beau",
+          "german_word": "schön",
+          "french_example": "j'habite dans la plus belle ville du monde",
+          "german_example": "ich wohne in der schönsten Stadt der Welt"
+        },
+        {
+          "french_word": "sympa",
+          "german_word": "nett / sympathisch",
+          "french_example": "Genève est très sympa",
+          "german_example": "Genf ist sehr nett"
+        },
+        {
+          "french_word": "brûlant",
+          "german_word": "heiß / brennend",
+          "french_example": "a versé la marmite de soupe brûlante qu'elle venait de préparer",
+          "german_example": "goss den Topf mit heißer Suppe, den sie gerade zubereitet hatte"
         }
       ]
     }

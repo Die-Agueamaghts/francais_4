@@ -1,157 +1,157 @@
 {
   "categories": [
     {
-      "id": "kapitel_01",
+      "id": "unit_03_kapitel_01",
       "name": "Kapitel 01 – Im Café",
       "cards": [
         {
-          "frensh_word": "un café",
+          "french_word": "un café",
           "german_word": "eine Cafétasse / ein Café",
-          "freansh_example": "Je prends un café noir.",
+          "french_example": "Je prends un café noir.",
           "german_example": "Ich nehme einen schwarzen Kaffee."
         },
         {
-          "frensh_word": "un menu",
+          "french_word": "un menu",
           "german_word": "eine Speisekarte",
-          "freansh_example": "Le menu est sur la table.",
+          "french_example": "Le menu est sur la table.",
           "german_example": "Die Speisekarte liegt auf dem Tisch."
         },
         {
-          "frensh_word": "une boisson",
+          "french_word": "une boisson",
           "german_word": "ein Getränk",
-          "freansh_example": "Quelle boisson préfères-tu ?",
+          "french_example": "Quelle boisson préfères-tu ?",
           "german_example": "Welches Getränk magst du lieber?"
         },
         {
-          "frensh_word": "un jus d’orange",
+          "french_word": "un jus d’orange",
           "german_word": "ein Orangensaft",
-          "freansh_example": "Je bois un jus d’orange.",
+          "french_example": "Je bois un jus d’orange.",
           "german_example": "Ich trinke einen Orangensaft."
         },
         {
-          "frensh_word": "un sandwich",
+          "french_word": "un sandwich",
           "german_word": "ein Sandwich",
-          "freansh_example": "Le sandwich est délicieux.",
+          "french_example": "Le sandwich est délicieux.",
           "german_example": "Das Sandwich ist köstlich."
         },
         {
-          "frensh_word": "une glace",
+          "french_word": "une glace",
           "german_word": "ein Eis",
-          "freansh_example": "Je prends une glace au chocolat.",
+          "french_example": "Je prends une glace au chocolat.",
           "german_example": "Ich nehme ein Schokoladeneis."
         },
         {
-          "frensh_word": "commander",
+          "french_word": "commander",
           "german_word": "bestellen",
-          "freansh_example": "Je vais commander un plat.",
+          "french_example": "Je vais commander un plat.",
           "german_example": "Ich werde ein Gericht bestellen."
         },
         {
-          "frensh_word": "payer",
+          "french_word": "payer",
           "german_word": "bezahlen",
-          "freansh_example": "Il faut payer l’addition.",
+          "french_example": "Il faut payer l’addition.",
           "german_example": "Man muss die Rechnung bezahlen."
         },
         {
-          "frensh_word": "le service",
+          "french_word": "le service",
           "german_word": "der Service",
-          "freansh_example": "Le service est rapide.",
+          "french_example": "Le service est rapide.",
           "german_example": "Der Service ist schnell."
         },
         {
-          "frensh_word": "une table",
+          "french_word": "une table",
           "german_word": "ein Tisch",
-          "freansh_example": "La table est près de la fenêtre.",
+          "french_example": "La table est près de la fenêtre.",
           "german_example": "Der Tisch steht am Fenster."
         },
         {
-          "frensh_word": "le serveur",
+          "french_word": "le serveur",
           "german_word": "der Kellner",
-          "freansh_example": "Le serveur apporte la commande.",
+          "french_example": "Le serveur apporte la commande.",
           "german_example": "Der Kellner bringt die Bestellung."
         },
         {
-          "frensh_word": "la serveuse",
+          "french_word": "la serveuse",
           "german_word": "die Kellnerin",
-          "freansh_example": "La serveuse est très gentille.",
+          "french_example": "La serveuse est très gentille.",
           "german_example": "Die Kellnerin ist sehr nett."
         }
       ]
     },
     {
-      "id": "kapitel_02",
+      "id": "unit_03_kapitel_02",
       "name": "Kapitel 02 – Freizeit und Reisen",
       "cards": [
         {
-          "frensh_word": "les vacances",
+          "french_word": "les vacances",
           "german_word": "die Ferien",
-          "freansh_example": "Les vacances commencent en juillet.",
+          "french_example": "Les vacances commencent en juillet.",
           "german_example": "Die Ferien beginnen im Juli."
         },
         {
-          "frensh_word": "voyager",
+          "french_word": "voyager",
           "german_word": "reisen",
-          "freansh_example": "On aime voyager en Europe.",
+          "french_example": "On aime voyager en Europe.",
           "german_example": "Wir reisen gern durch Europa."
         },
         {
-          "frensh_word": "un billet",
+          "french_word": "un billet",
           "german_word": "eine Fahrkarte / ein Ticket",
-          "freansh_example": "J’ai un billet pour le train.",
+          "french_example": "J’ai un billet pour le train.",
           "german_example": "Ich habe ein Ticket für den Zug."
         },
         {
-          "frensh_word": "un train",
+          "french_word": "un train",
           "german_word": "ein Zug",
-          "freansh_example": "Le train part à huit heures.",
+          "french_example": "Le train part à huit heures.",
           "german_example": "Der Zug fährt um acht Uhr ab."
         },
         {
-          "frensh_word": "une gare",
+          "french_word": "une gare",
           "german_word": "ein Bahnhof",
-          "freansh_example": "La gare est très grande.",
+          "french_example": "La gare est très grande.",
           "german_example": "Der Bahnhof ist sehr groß."
         },
         {
-          "frensh_word": "un hôtel",
+          "french_word": "un hôtel",
           "german_word": "ein Hotel",
-          "freansh_example": "Nous logeons dans un hôtel moderne.",
+          "french_example": "Nous logeons dans un hôtel moderne.",
           "german_example": "Wir wohnen in einem modernen Hotel."
         },
         {
-          "frensh_word": "une ville",
+          "french_word": "une ville",
           "german_word": "eine Stadt",
-          "freansh_example": "Cette ville est très belle.",
+          "french_example": "Cette ville est très belle.",
           "german_example": "Diese Stadt ist sehr schön."
         },
         {
-          "frensh_word": "voir",
+          "french_word": "voir",
           "german_word": "sehen",
-          "freansh_example": "Je veux voir la mer.",
+          "french_example": "Je veux voir la mer.",
           "german_example": "Ich möchte das Meer sehen."
         },
         {
-          "frensh_word": "acheter",
+          "french_word": "acheter",
           "german_word": "kaufen",
-          "freansh_example": "Je vais acheter des souvenirs.",
+          "french_example": "Je vais acheter des souvenirs.",
           "german_example": "Ich werde Souvenirs kaufen."
         },
         {
-          "frensh_word": "une carte postale",
+          "french_word": "une carte postale",
           "german_word": "eine Postkarte",
-          "freansh_example": "J’envoie une carte postale à ma mère.",
+          "french_example": "J’envoie une carte postale à ma mère.",
           "german_example": "Ich schicke meiner Mutter eine Postkarte."
         },
         {
-          "frensh_word": "le soleil",
+          "french_word": "le soleil",
           "german_word": "die Sonne",
-          "freansh_example": "Le soleil brille aujourd’hui.",
+          "french_example": "Le soleil brille aujourd’hui.",
           "german_example": "Die Sonne scheint heute."
         },
         {
-          "frensh_word": "la plage",
+          "french_word": "la plage",
           "german_word": "der Strand",
-          "freansh_example": "Nous allons à la plage.",
+          "french_example": "Nous allons à la plage.",
           "german_example": "Wir gehen an den Strand."
         }
       ]

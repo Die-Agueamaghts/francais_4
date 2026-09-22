@@ -196,7 +196,7 @@
       state.data = { units, categories: {} };
       Object.values(units).forEach((unit) => {
         unit.categories.forEach((category) => {
-          state.data.categories[category.id] = category;
+          state.data.categories[`${unit.id}:${category.id}`] = category;
         });
       });
 
