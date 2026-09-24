@@ -109,6 +109,13 @@
           >
             Starten
           </button>
+          <button
+            id="resetRatingsButton"
+            class="secondary-button large-button"
+            type="button"
+          >
+            Sternstatus zurücksetzen
+          </button>
           <p id="setupStatus" class="status-text" role="status"></p>
         </section>
 
@@ -132,6 +139,12 @@
 
           <div class="category-strip">
             <span id="categoryLabel">Beispiele</span>
+          </div>
+
+          <div id="cardRating" class="card-rating" aria-label="Wissensstand">
+            <span class="rating-label">Wissensstand</span>
+            <div id="cardStars" class="card-stars"></div>
+            <span id="ratingDescription" class="rating-description"></span>
           </div>
 
           <div class="test-tools">

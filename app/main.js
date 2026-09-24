@@ -12,6 +12,7 @@
     testDirection: "question",
     lastValidation: null,
     reviewQueue: [],
+    ratings: {},
     stats: {
       sessions: 0,
       correct: 0,
@@ -86,6 +87,128 @@
 
   function getGermanExampleValue(card) {
     return String(card?.german_example ?? card?.germanExample ?? "").trim();
+  }
+
+  function getCardKey(card) {
+    return `${state.unit}:${state.category}:${getFrenchValue(card)}:${getGermanValue(card)}`;
+  }
+
+  function loadRatings() {
+    try {
+      const saved = JSON.parse(
+        localStorage.getItem("franzosisch4_card_ratings") || "{}",
+      );
+      return saved && typeof saved === "object" ? saved : {};
+    } catch {
+      return {};
+    }
+  }
+
+  function saveRatings() {
+    localStorage.setItem(
+      "franzosisch4_card_ratings",
+      JSON.stringify(state.ratings),
+    );
+  }
+
+  function resetRatings() {
+    const confirmed = window.confirm(
+      "Möchtest du den Sternstatus aller Karten wirklich zurücksetzen?",
+    );
+    if (!confirmed) return;
+
+    localStorage.removeItem("franzosisch4_card_ratings");
+    state.ratings = {};
+    $("#setupStatus").textContent = "Der Sternstatus wurde zurückgesetzt.";
+
+    const currentCard = state.cards[state.currentIndex];
+    if (currentCard) renderCardRating(currentCard);
+  }
+
+  function getCardStars(card) {
+    const value = Number(state.ratings[getCardKey(card)]);
+    return Number.isInteger(value) ? Math.max(0, Math.min(3, value)) : 0;
+  }
+
+  function getCardRepeatCount(card) {
+    return [8, 4, 2, 0][getCardStars(card)];
+  }
+
+  function buildWeightedCards(cards) {
+    const availableStars = [0, 1, 2].find((stars) =>
+      cards.some((card) => getCardStars(card) === stars),
+    );
+    const priorityCards = cards.filter(
+      (card) => getCardStars(card) === availableStars,
+    );
+    const weightedCards = priorityCards.flatMap((card) =>
+      Array.from({ length: getCardRepeatCount(card) }, () => card),
+    );
+
+    for (let index = weightedCards.length - 1; index > 0; index -= 1) {
+      const randomIndex = Math.floor(Math.random() * (index + 1));
+      [weightedCards[index], weightedCards[randomIndex]] = [
+        weightedCards[randomIndex],
+        weightedCards[index],
+      ];
+    }
+    return weightedCards;
+  }
+
+  function renderCardRating(card) {
+    const stars = $("#cardStars");
+    if (!stars) return;
+
+    const rating = getCardStars(card);
+    const descriptions = [
+      "Neu oder sehr schwer",
+      "Sitzt schon etwas besser",
+      "Mittleres Wissen",
+      "Sicheres Wissen",
+    ];
+    const description = $("#ratingDescription");
+    if (description) description.textContent = descriptions[rating];
+    stars.innerHTML = "";
+    for (let index = 0; index < 3; index += 1) {
+      const button = document.createElement("button");
+      const isLit = index < rating;
+      button.type = "button";
+      button.className = `rating-star${isLit ? " is-lit" : ""}`;
+      button.textContent = isLit ? "★" : "☆";
+      button.setAttribute("aria-label", `${index + 1} von 3 Sterne setzen`);
+      button.setAttribute("aria-pressed", String(isLit));
+      button.title = isLit
+        ? "Wissensstand zurücksetzen"
+        : "Wissensstand erhöhen";
+      button.addEventListener("click", (event) => {
+        event.preventDefault();
+        event.stopPropagation();
+        const newRating = isLit ? index : index + 1;
+        state.ratings[getCardKey(card)] = newRating;
+        saveRatings();
+
+        if (newRating === 3) {
+          const cardKey = getCardKey(card);
+          const currentCardKey = getCardKey(state.cards[state.currentIndex]);
+          const removedCurrentCard = currentCardKey === cardKey;
+          state.cards = state.cards.filter(
+            (item) => getCardKey(item) !== cardKey,
+          );
+          if (removedCurrentCard) {
+            if (state.currentIndex >= state.cards.length) {
+              state.currentIndex = state.cards.length - 1;
+            }
+            if (state.cards.length === 0) {
+              return finish();
+            }
+            renderCard();
+            return;
+          }
+        }
+        renderCardRating(card);
+      });
+      stars.appendChild(button);
+    }
   }
 
   function showScreen(name) {
@@ -360,7 +483,13 @@
       unit?.categories?.[0];
 
     if (!category?.cards?.length) return;
-    state.cards = [...category.cards].map(normalizeCard);
+    state.ratings = loadRatings();
+    state.cards = buildWeightedCards([...category.cards].map(normalizeCard));
+    if (!state.cards.length) {
+      $("#setupStatus").textContent =
+        "Alle Wörter dieser Kategorie haben bereits 3 Sterne.";
+      return;
+    }
     state.currentIndex = 0;
     state.answers = [];
     state.testDirection = "question";
@@ -416,6 +545,7 @@
   function renderCard() {
     const card = state.cards[state.currentIndex];
     if (!card) return finish();
+    renderCardRating(card);
     const total = state.cards.length;
     const isValidated =
       state.mode === "test" &&
@@ -729,6 +859,7 @@
       button.addEventListener("click", () => selectMode(button.dataset.mode)),
     );
   $("#startButton").addEventListener("click", start);
+  $("#resetRatingsButton").addEventListener("click", resetRatings);
   $("#backButton").addEventListener("click", previous);
   $("#nextButton").addEventListener("click", next);
   $("#finishButton").addEventListener("click", returnHome);
@@ -740,7 +871,14 @@
       unit?.categories?.find((item) => item.id === state.category) ||
       unit?.categories?.[0];
     if (!category) return;
-    state.cards = [...state.reviewQueue].map(normalizeCard);
+    state.ratings = loadRatings();
+    state.cards = buildWeightedCards([...state.reviewQueue].map(normalizeCard));
+    if (!state.cards.length) {
+      $("#setupStatus").textContent =
+        "Alle Wörter dieser Kategorie haben bereits 3 Sterne.";
+      showScreen("setup");
+      return;
+    }
     state.currentIndex = 0;
     state.answers = [];
     state.testDirection = "question";

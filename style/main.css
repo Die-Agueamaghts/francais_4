@@ -303,6 +303,47 @@ main {
   color: var(--muted);
   font-size: 0.85rem;
 }
+.card-rating {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin: 0 0 14px;
+}
+.rating-label {
+  color: var(--muted);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.card-stars {
+  display: flex;
+  gap: 2px;
+}
+.rating-description {
+  color: var(--muted);
+  font-size: 0.78rem;
+}
+.rating-star {
+  width: 34px;
+  height: 34px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--border);
+  font-size: 1.65rem;
+  line-height: 1;
+}
+.rating-star.is-lit {
+  color: var(--accent);
+}
+.rating-star:hover,
+.rating-star:focus-visible {
+  outline: none;
+  color: var(--accent);
+  transform: translateY(-1px);
+}
 .test-tools {
   display: flex;
   justify-content: flex-end;
