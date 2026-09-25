@@ -1,158 +1,680 @@
 {
   "categories": [
     {
-      "id": "unit_02_kapitel_01",
-      "name": "Kapitel 01 – Schule und Alltag",
+      "id": "unite_2_volet_1",
+      "name": "Unité 2 | Volet 1",
       "cards": [
         {
-          "french_word": "l’école",
-          "german_word": "die Schule",
-          "french_example": "Je vais à l’école le matin.",
-          "german_example": "Ich gehe morgens in die Schule."
+          "french_word": "gagner de l'argent",
+          "german_word": "Geld verdienen",
+          "french_example": "Mara voudrait un métier où on gagne de l'argent.",
+          "german_example": "Mara möchte einen Beruf, in dem man Geld verdient."
         },
         {
-          "french_word": "la classe",
-          "german_word": "das Klassenzimmer / die Klasse",
-          "french_example": "La classe est grande aujourd’hui.",
-          "german_example": "Das Klassenzimmer ist heute groß."
+          "french_word": "stressé/stressée",
+          "german_word": "gestresst",
+          "french_example": "Mon prof de maths est trop stressé.",
+          "german_example": "Mein Mathelehrer ist zu gestresst."
         },
         {
-          "french_word": "un professeur",
-          "german_word": "ein Lehrer",
-          "french_example": "Le professeur explique la leçon.",
-          "german_example": "Der Lehrer erklärt die Stunde."
+          "french_word": "avoir l'impression de",
+          "german_word": "den Eindruck haben",
+          "french_example": "J'ai l'impression de perdre mon temps.",
+          "german_example": "Ich habe den Eindruck, meine Zeit zu verschwenden."
         },
         {
-          "french_word": "une professeure",
-          "german_word": "eine Lehrerin",
-          "french_example": "La professeure donne les devoirs.",
-          "german_example": "Die Lehrerin gibt die Hausaufgaben."
+          "french_word": "le talent",
+          "german_word": "das Talent",
+          "french_example": "Mon frère chante bien. Il a beaucoup de talent.",
+          "german_example": "Mein Bruder singt gut. Er hat viel Talent."
         },
         {
-          "french_word": "un cahier",
-          "german_word": "ein Heft",
-          "french_example": "J’écris dans mon cahier.",
-          "german_example": "Ich schreibe in mein Heft."
+          "french_word": "avoir confiance en qn",
+          "german_word": "Vertrauen in jdn haben",
+          "french_example": "Mes parents m'aident beaucoup. Ils ont confiance en moi.",
+          "german_example": "Meine Eltern helfen mir sehr. Sie haben Vertrauen in mich."
         },
         {
-          "french_word": "un stylo",
-          "german_word": "ein Kugelschreiber",
-          "french_example": "J’ai un stylo bleu.",
-          "german_example": "Ich habe einen blauen Kugelschreiber."
+          "french_word": "la passion",
+          "german_word": "die Leidenschaft",
+          "french_example": "Ma passion, c'est le sport.",
+          "german_example": "Meine Leidenschaft ist der Sport."
         },
         {
-          "french_word": "une gomme",
-          "german_word": "ein Radiergummi",
-          "french_example": "La gomme est dans le sac.",
-          "german_example": "Der Radiergummi liegt in der Tasche."
+          "french_word": "faire du cheval",
+          "german_word": "reiten",
+          "french_example": "Faire du cheval, c'est ma passion.",
+          "german_example": "Reiten ist meine Leidenschaft."
         },
         {
-          "french_word": "apprendre",
-          "german_word": "lernen",
-          "french_example": "Je veux apprendre le français.",
-          "german_example": "Ich möchte Französisch lernen."
+          "french_word": "Quelle horreur!",
+          "german_word": "Wie furchtbar!",
+          "french_example": "Mon petit frère est blessé. - Quelle horreur !",
+          "german_example": "Mein kleiner Bruder ist verletzt. - Wie furchtbar !"
         },
         {
-          "french_word": "parler",
-          "german_word": "sprechen",
-          "french_example": "Nous parlons avec nos amis.",
-          "german_example": "Wir sprechen mit unseren Freunden."
+          "french_word": "réaliser qc",
+          "german_word": "hier: etw. verwirklichen",
+          "french_example": "Mon oncle a réalisé son rêve: il construit une maison au bord de la mer.",
+          "german_example": "Mein Onkel hat seinen Traum verwirklicht: Er baut ein Haus am Meer."
         },
         {
-          "french_word": "écouter",
-          "german_word": "hören / zuhören",
-          "french_example": "Il écoute la musique.",
-          "german_example": "Er hört Musik."
+          "french_word": "l'avenir",
+          "german_word": "die Zukunft",
+          "french_example": "Tu as des projets pour l'avenir ?",
+          "german_example": "Hast du Pläne für die Zukunft ?"
         },
         {
-          "french_word": "la pause",
-          "german_word": "die Pause",
-          "french_example": "La pause commence à midi.",
-          "german_example": "Die Pause beginnt mittags."
+          "french_word": "la formation",
+          "german_word": "die Ausbildung",
+          "french_example": "La formation de boulanger dure 3 ans.",
+          "german_example": "Die Ausbildung zum Bäcker dauert 3 Jahre."
         },
         {
-          "french_word": "le devoir",
-          "german_word": "die Hausaufgabe",
-          "french_example": "Le devoir est difficile.",
-          "german_example": "Die Hausaufgabe ist schwierig."
+          "french_word": "le métier",
+          "german_word": "der Beruf",
+          "french_example": "Mon métier de rêve, c'est astronaute.",
+          "german_example": "Mein Traumberuf ist Astronaut."
+        },
+        {
+          "french_word": "suivre qn/qc",
+          "german_word": "etw./jdm folgen, jdn verfolgen",
+          "french_example": "La police a suivi la voiture.",
+          "german_example": "Die Polizei ist dem Auto gefolgt."
+        },
+        {
+          "french_word": "le conseiller / la conseillère d'orientation",
+          "german_word": "der/die Berufsberater/in",
+          "french_example": "Si tu ne sais pas quel métier choisir, demande à un conseiller.",
+          "german_example": "Wenn du nicht weißt, welchen Beruf du wählen sollst, frage einen Berufsberater."
+        },
+        {
+          "french_word": "le dessinateur / la dessinatrice",
+          "german_word": "der/die Zeichner/in",
+          "french_example": "Dessinateur est un métier très créatif.",
+          "german_example": "Zeichner ist ein sehr kreativer Beruf."
+        },
+        {
+          "french_word": "être doué/douée",
+          "german_word": "begabt sein",
+          "french_example": "Madeleine est douée pour le dessin.",
+          "german_example": "Madeleine ist begabt im Zeichnen."
+        },
+        {
+          "french_word": "l'autre jour",
+          "german_word": "letztens",
+          "french_example": "L'autre jour, je me suis baigné dans la mer.",
+          "german_example": "Letztens habe ich im Meer gebadet."
+        },
+        {
+          "french_word": "l'article",
+          "german_word": "der Artikel, der Zeitungsartikel",
+          "french_example": "J'ai lu un article intéressant sur les métiers.",
+          "german_example": "Ich habe einen interessanten Artikel über Berufe gelesen."
+        },
+        {
+          "french_word": "impressionner qn",
+          "german_word": "jdn beeindrucken",
+          "french_example": "Souleymane m'impressionne vraiment. Il sait tout !",
+          "german_example": "Souleymane beeindruckt mich wirklich. Er weiß alles !"
+        },
+        {
+          "french_word": "partir de rien",
+          "german_word": "bei Null starten",
+          "french_example": "Pour ce projet, il faudra partir de rien.",
+          "german_example": "Für dieses Projekt muss man bei Null starten."
+        },
+        {
+          "french_word": "se battre",
+          "german_word": "sich (durch)schlagen, kämpfen",
+          "french_example": "Parfois, il faut se battre pour arriver à quelque chose.",
+          "german_example": "Manchmal muss man kämpfen, um etwas zu erreichen."
+        },
+        {
+          "french_word": "battre qn/qc",
+          "german_word": "jdn/etw. schlagen, jdn/etw. besiegen",
+          "french_example": "Max est très fort à ce jeu. Il peut battre tout le monde.",
+          "german_example": "Max ist sehr stark in diesem Spiel. Er kann jeden besiegen."
+        },
+        {
+          "french_word": "malgré + nom",
+          "german_word": "trotz + Nomen",
+          "french_example": "Malgré le mauvais temps, Sophie va à la piscine.",
+          "german_example": "Trotz des schlechten Wetters geht Sophie ins Schwimmbad."
+        },
+        {
+          "french_word": "modeste",
+          "german_word": "bescheiden",
+          "french_example": "Manon est très douée pour la musique, mais elle n'en parle pas. Elle est trop modeste.",
+          "german_example": "Manon ist sehr musikalisch begabt, aber sie spricht nicht darüber. Sie ist zu bescheiden."
+        },
+        {
+          "french_word": "Médecins du monde",
+          "german_word": "Ärzte der Welt internationale Hilfsorganisation",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "soigner qn/qc",
+          "german_word": "jdn/etw. pflegen",
+          "french_example": "Ludivine aime soigner les gens.",
+          "german_example": "Ludivine pflegt gerne Menschen."
+        },
+        {
+          "french_word": "s'engager",
+          "german_word": "sich engagieren",
+          "french_example": "Laurent s'engage pour la solidarité à l'école.",
+          "german_example": "Laurent engagiert sich für die Solidarität in der Schule."
+        },
+        {
+          "french_word": "l'exclusion",
+          "german_word": "die Ausgrenzung",
+          "french_example": "Il faut lutter contre l'exclusion.",
+          "german_example": "Man muss gegen Ausgrenzung kämpfen."
+        },
+        {
+          "french_word": "quelqu'un de bien",
+          "german_word": "ein guter Mensch, wörtl.: jemand Gutes",
+          "french_example": "J'ai rencontré quelqu'un de bien.",
+          "german_example": "Ich habe einen guten Menschen kennengelernt."
+        },
+        {
+          "french_word": "utile",
+          "german_word": "nützlich",
+          "french_example": "Les langues sont très utiles pour travailler à l'étranger.",
+          "german_example": "Sprachen sind sehr nützlich, um im Ausland zu arbeiten."
+        },
+        {
+          "french_word": "empêcher qn/qc de + inf",
+          "german_word": "etw. verhindern, jdn an etw. hindern",
+          "french_example": "Mes parents m'empêchent de faire des études. Ils voudraient que je trouve vite un travail.",
+          "german_example": "Meine Eltern hindern mich daran zu studieren. Sie möchten, dass ich schnell eine Arbeit finde."
+        },
+        {
+          "french_word": "à ta place",
+          "german_word": "an deiner Stelle",
+          "french_example": "Moi, à ta place, je partirais faire des études aux États-Unis.",
+          "german_example": "Ich an deiner Stelle würde in den USA studieren gehen."
+        },
+        {
+          "french_word": "Ça ne me dit rien (du tout).",
+          "german_word": "Das ist (gar) nichts für mich.",
+          "french_example": "L'escalade, ça ne me dit rien.",
+          "german_example": "Klettern ist nichts für mich."
+        },
+        {
+          "french_word": "le reporter ou le rapporteur / la reportrice",
+          "german_word": "der/die Reporter/in",
+          "french_example": "C'est un reporter célèbre. Il va partout dans le monde et écrit des articles.",
+          "german_example": "Das ist ein berühmter Reporter. Er reist in die ganze Welt und schreibt Artikel."
+        },
+        {
+          "french_word": "imaginer qc",
+          "german_word": "sich etw. vorstellen",
+          "french_example": "Je ne pourrais pas imaginer travailler dans un bureau. Je préfère travailler chez moi.",
+          "german_example": "Ich könnte mir nicht vorstellen, in einem Büro zu arbeiten. Ich arbeite lieber zu Hause."
         }
       ]
     },
     {
-      "id": "unit_02_kapitel_02",
-      "name": "Kapitel 02 – Familie und Freunde",
+      "id": "unite_2_volet_2",
+      "name": "Unité 2 | Volet 2",
       "cards": [
         {
-          "french_word": "la famille",
-          "german_word": "die Familie",
-          "french_example": "Ma famille est très sympa.",
-          "german_example": "Meine Familie ist sehr nett."
+          "french_word": "la responsabilité",
+          "german_word": "die Verantwortung",
+          "french_example": "Les parents ont la responsabilité de leurs enfants.",
+          "german_example": "Eltern tragen die Verantwortung für ihre Kinder."
         },
         {
-          "french_word": "les parents",
-          "german_word": "die Eltern",
-          "french_example": "Mes parents travaillent beaucoup.",
-          "german_example": "Meine Eltern arbeiten viel."
+          "french_word": "n'en savoir rien",
+          "german_word": "keine Ahnung (von etw.) haben",
+          "french_example": "- Qu'est-ce que tu voudrais faire plus tard ? - Je n'en sais rien.",
+          "german_example": "- Was möchtest du später mal machen ? - Ich habe keine Ahnung."
         },
         {
-          "french_word": "le père",
-          "german_word": "der Vater",
-          "french_example": "Mon père est très gentil.",
-          "german_example": "Mein Vater ist sehr nett."
+          "french_word": "la montre",
+          "german_word": "die Armbanduhr",
+          "french_example": "Regarde, j'ai acheté une montre. Comment tu la trouves ?",
+          "german_example": "Schau mal, ich habe eine Armbanduhr gekauft. Wie findest du sie ?"
         },
         {
-          "french_word": "la mère",
-          "german_word": "die Mutter",
-          "french_example": "Ma mère aime cuisiner.",
-          "german_example": "Meine Mutter kocht gern."
+          "french_word": "rater qc",
+          "german_word": "etw. verpassen, durchfallen bei einer Prüfung",
+          "french_example": "Vera a raté le bus.",
+          "german_example": "Vera hat den Bus verpasst."
         },
         {
-          "french_word": "un frère",
-          "german_word": "ein Bruder",
-          "french_example": "J’ai un frère plus âgé.",
-          "german_example": "Ich habe einen älteren Bruder."
+          "french_word": "l'examen",
+          "german_word": "die Prüfung, auch: die ärztliche Untersuchung",
+          "french_example": "Demain, j'ai un examen très important.",
+          "german_example": "Morgen habe ich eine sehr wichtige Prüfung."
         },
         {
-          "french_word": "une sœur",
-          "german_word": "eine Schwester",
-          "french_example": "Elle est ma sœur.",
-          "german_example": "Sie ist meine Schwester."
+          "french_word": "propre",
+          "german_word": "hier: eigener/eigene/eigenes",
+          "french_example": "Sarah voudrait avoir sa propre chambre.",
+          "german_example": "Sarah möchte ihr eigenes Zimmer haben."
         },
         {
-          "french_word": "amical",
-          "german_word": "freundschaftlich / nett",
-          "french_example": "Il est très amical.",
-          "german_example": "Er ist sehr freundlich."
+          "french_word": "repasser qc",
+          "german_word": "etw. wiederholen Prüfung",
+          "french_example": "Lucie a raté l'examen d'anglais, mais elle peut le repasser dans un mois.",
+          "german_example": "Lucie ist durch die Englischprüfung gefallen, aber sie kann sie in einem Monat wiederholen."
         },
         {
-          "french_word": "un ami",
-          "german_word": "ein Freund",
-          "french_example": "Mon ami vient ce soir.",
-          "german_example": "Mein Freund kommt heute Abend."
+          "french_word": "poser sa candidature (pour qc)",
+          "german_word": "sich (um etw.) bewerben",
+          "french_example": "Selma ne sait pas comment poser sa candidature. Alors, elle va chez le conseiller d'orientation.",
+          "german_example": "Selma weiß nicht, wie sie sich bewerben soll. Also geht sie zum Berufsberater."
         },
         {
-          "french_word": "une amie",
-          "german_word": "eine Freundin",
-          "french_example": "C’est mon amie depuis l’école.",
-          "german_example": "Sie ist meine Freundin seit der Schule."
+          "french_word": "la candidature",
+          "german_word": "die Bewerbung",
+          "french_example": "Fatih a envoyé sa candidature à plusieurs entreprises.",
+          "german_example": "Fatih hat seine Bewerbung an mehrere Unternehmen geschickt."
         },
         {
-          "french_word": "aider",
-          "german_word": "helfen",
-          "french_example": "Je peux aider mes amis.",
-          "german_example": "Ich kann meinen Freunden helfen."
+          "french_word": "passionnant/passionnante",
+          "german_word": "faszinierend, fesselnd",
+          "french_example": "Reporter doit être un métier passionnant. On voyage beaucoup et on rencontre plein de gens.",
+          "german_example": "Reporter muss ein faszinierender Beruf sein. Man reist viel und lernt jede Menge Leute kennen."
         },
         {
-          "french_word": "se retrouver",
-          "german_word": "sich treffen / zusammenkommen",
-          "french_example": "On se retrouve au parc.",
-          "german_example": "Wir treffen uns im Park."
+          "french_word": "enrichissant/enrichissante",
+          "german_word": "bereichernd",
+          "french_example": "Notre voyage au Portugal a été très enrichissant.",
+          "german_example": "Unsere Reise nach Portugal war sehr bereichernd."
         },
         {
-          "french_word": "le week-end",
-          "german_word": "das Wochenende",
-          "french_example": "Le week-end, nous allons à la plage.",
-          "german_example": "Am Wochenende gehen wir an den Strand."
+          "french_word": "l'horaire",
+          "german_word": "hier: die Arbeitszeit, auch: der Fahrplan",
+          "french_example": "- Quels seront tes horaires de travail ? - Tous les jours de 9 h à 17 h 30.",
+          "german_example": "- Wie werden deine Arbeitszeiten sein? - Jeden Tag von 9:00 bis 17:30 Uhr."
+        },
+        {
+          "french_word": "flexible",
+          "german_word": "flexibel",
+          "french_example": "Parfois, il faut être flexible pour trouver du travail.",
+          "german_example": "Manchmal muss man flexibel sein, um Arbeit zu finden."
+        },
+        {
+          "french_word": "l'ordre",
+          "german_word": "der Befehl, auch: die Ordnung",
+          "french_example": "L'entraîneur donne des ordres aux joueurs.",
+          "german_example": "Der Trainer gibt den Spielern Befehle."
+        },
+        {
+          "french_word": "prendre une décision",
+          "german_word": "eine Entscheidung treffen, einen Entschluss fassen",
+          "french_example": "Où est-ce qu'on part en vacances cet été ? Il faut prendre une décision.",
+          "german_example": "Wohin fahren wir diesen Sommer in den Urlaub? Wir müssen eine Entscheidung treffen."
+        },
+        {
+          "french_word": "la décision",
+          "german_word": "die Entscheidung, der Entschluss",
+          "french_example": "Choisir un métier, c'est une décision difficile.",
+          "german_example": "Einen Beruf zu wählen, ist eine schwierige Entscheidung."
+        },
+        {
+          "french_word": "le superhéros / la superhéroïne",
+          "german_word": "der/die Superheld/in",
+          "french_example": "Spiderman est mon superhéros préféré.",
+          "german_example": "Spiderman ist mein Lieblingssuperheld."
+        },
+        {
+          "french_word": "sauver qn/qc",
+          "german_word": "jdn/etw. retten",
+          "french_example": "Élise veut devenir médecin pour sauver des gens malades dans les pays pauvres.",
+          "german_example": "Élise möchte Ärztin werden, um kranke Menschen in armen Ländern zu retten."
+        },
+        {
+          "french_word": "être prêt/prête (à) + inf.",
+          "german_word": "bereit sein (etw. zu tun)",
+          "french_example": "Samira veut devenir journaliste. Pour y arriver, elle est prête à faire des efforts.",
+          "german_example": "Samira möchte Journalistin werden. Um das zu erreichen, ist sie bereit, sich anzustrengen."
+        },
+        {
+          "french_word": "prêt/prête",
+          "german_word": "hier: bereit",
+          "french_example": "À table, le déjeuner est prêt !",
+          "german_example": "Zu Tisch, das Mittagessen ist bereit!"
+        },
+        {
+          "french_word": "le domaine",
+          "german_word": "das Gebiet, der Bereich",
+          "french_example": "Damien veut travailler dans le domaine de la recherche.",
+          "german_example": "Damien möchte im Bereich der Forschung arbeiten."
+        },
+        {
+          "french_word": "optimiste",
+          "german_word": "optimistisch",
+          "french_example": "Tout est plus facile quand on reste optimiste.",
+          "german_example": "Alles ist einfacher, wenn man optimistisch bleibt."
+        },
+        {
+          "french_word": "le job d'été",
+          "german_word": "der Ferienjob",
+          "french_example": "Cette année, je veux faire un job d'été.",
+          "german_example": "Dieses Jahr möchte ich einen Ferienjob machen."
+        },
+        {
+          "french_word": "le/la baby-sitter",
+          "german_word": "der/die Babysitter/in",
+          "french_example": "Mon cousin travaille comme baby-sitter.",
+          "german_example": "Mein Cousin arbeitet als Babysitter."
+        },
+        {
+          "french_word": "le serveur / la serveuse",
+          "german_word": "der/die Kellner/in",
+          "french_example": "Germain voudrait travailler comme serveur.",
+          "german_example": "Germain möchte als Kellner arbeiten."
+        },
+        {
+          "french_word": "la majorité",
+          "german_word": "die Mehrheit",
+          "french_example": "La majorité de mes amis veulent faire le bac.",
+          "german_example": "Die Mehrheit meiner Freunde möchte das Abitur machen."
+        },
+        {
+          "french_word": "le concepteur / la conceptrice de jeux vidéo",
+          "german_word": "Game Conceptioner Entwickler für Videospiele",
+          "french_example": "Conceptrice de jeux vidéo, c'est le métier de rêve de Sonia !",
+          "german_example": "Videospielentwicklerin ist Sonias Traumberuf !"
+        },
+        {
+          "french_word": "le traducteur / la traductrice",
+          "german_word": "der/die Übersetzer/in",
+          "french_example": "Un traducteur doit être doué pour les langues.",
+          "german_example": "Ein Übersetzer muss begabt für Sprachen sein."
+        },
+        {
+          "french_word": "le salaire fixe",
+          "german_word": "das Festgehalt",
+          "french_example": "Je voudrais un travail avec un salaire fixe.",
+          "german_example": "Ich hätte gerne eine Arbeit mit einem Festgehalt."
+        },
+        {
+          "french_word": "le salaire",
+          "german_word": "das Gehalt",
+          "french_example": "Pour moi, le salaire est moins important. Je veux surtout un travail enrichissant.",
+          "german_example": "Für mich ist das Gehalt weniger wichtig. Ich möchte vor allem eine bereichernde Arbeit."
+        },
+        {
+          "french_word": "fixe",
+          "german_word": "fest, unveränderlich",
+          "french_example": "Le rendez-vous est fixe, je ne peux plus le changer.",
+          "german_example": "Der Termin steht fest, ich kann ihn nicht mehr ändern."
+        },
+        {
+          "french_word": "l'économie",
+          "german_word": "die Wirtschaft, BWL (= Betriebswirtschaftslehre)",
+          "french_example": "Pauline ne s'intéresse pas à l'économie. Elle voudrait faire des études de géographie.",
+          "german_example": "Pauline interessiert sich nicht für Wirtschaft. Sie möchte Geografie studieren."
+        },
+        {
+          "french_word": "curieux/curieuse",
+          "german_word": "neugierig, merkwürdig",
+          "french_example": "Nadine veut toujours tout savoir. Elle est très curieuse.",
+          "german_example": "Nadine will immer alles wissen. Sie ist sehr neugierig."
+        }
+      ]
+    },
+    {
+      "id": "module_b",
+      "name": "Module B",
+      "cards": [
+        {
+          "french_word": "Laurent Cantet",
+          "german_word": "französischer Filmregisseur",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "la synopsis",
+          "german_word": "die Kurzbeschreibung",
+          "french_example": "Pour savoir de quoi le film parle, il faut lire la synopsis.",
+          "german_example": "Um zu wissen, wovon der Film handelt, muss man die Kurzbeschreibung lesen."
+        },
+        {
+          "french_word": "agressif/agressive",
+          "german_word": "agressiv",
+          "french_example": "Nous avons deux chiens qui ne sont jamais agressifs, ils sont toujours gentils.",
+          "german_example": "Wir haben zwei Hunde, die niemals agressiv sind, sie sind immer lieb."
+        },
+        {
+          "french_word": "insolent/insolente",
+          "german_word": "unverschämt, frech",
+          "french_example": "On peut critiquer les autres sans pour cela être insolent.",
+          "german_example": "Man kann andere kritisieren, ohne deswegen frech zu sein."
+        },
+        {
+          "french_word": "motiver qn",
+          "german_word": "jdn motivieren",
+          "french_example": "Notre prof de sport nous motive toujours, même si on n'en peut plus.",
+          "german_example": "Unser Sportlehrer motiviert uns immer, selbst wenn wir nicht mehr können."
+        },
+        {
+          "french_word": "prendre des risques",
+          "german_word": "Risiken eingehen",
+          "french_example": "J'adore aller très vite à vélo, mais je ne prends pas de risques.",
+          "german_example": "Ich fahre unheimlich gerne sehr schnell Fahrrad, aber ich gehe keine Risiken ein."
+        },
+        {
+          "french_word": "la critique",
+          "german_word": "die Kritik",
+          "french_example": "C'est un commentaire. Ne le prends pas comme une critique.",
+          "german_example": "Das ist ein Kommentar. Nimm es nicht als Kritik."
+        },
+        {
+          "french_word": "le réalisateur / la réalisatrice",
+          "german_word": "der/die Regisseur/in",
+          "french_example": "Steven Spielberg est le réalisateur le plus célèbre du monde.",
+          "german_example": "Steven Spielberg ist der berühmteste Regisseur der Welt."
+        },
+        {
+          "french_word": "la Palme d'Or",
+          "german_word": "die Goldene Palme (französischer Filmpreis beim Filmfest in Cannes)",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "le Festival de Cannes",
+          "german_word": "Internationale Filmfestspiele von Cannes",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "l'adaptation",
+          "german_word": "die Adaption, die Bearbeitung",
+          "french_example": "J'ai vu « Les profs » au cinéma. C'est une adaptation de la bédé.",
+          "german_example": "Ich habe „Les profs“ im Kino gesehen. Das ist eine Bearbeitung des Comics."
+        },
+        {
+          "french_word": "François Bégaudeau",
+          "german_word": "französischer Autor",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "le scénario",
+          "german_word": "das Drehbuch",
+          "french_example": "J'aimerais écrire un scénario.",
+          "german_example": "Ich würde gerne ein Drehbuch schreiben."
+        },
+        {
+          "french_word": "Robin Campillo",
+          "german_word": "französischer Filmregisseur und Cutter",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "d'ailleurs",
+          "german_word": "übrigens",
+          "french_example": "Je n'ai pas réussi à ouvrir la boîte. Papa non plus d'ailleurs.",
+          "german_example": "Ich habe es nicht geschafft, die Dose zu öffnen. Papa übrigens auch nicht."
+        },
+        {
+          "french_word": "l'amateur / l'amatrice",
+          "german_word": "hier: der Laie, auch: der Fan",
+          "french_example": "Ma mère n'a jamais appris à faire du théâtre, c'est une amatrice.",
+          "german_example": "Meine Mutter hat nie gelernt, Theater zu spielen, sie ist eine Laiin."
+        },
+        {
+          "french_word": "rendre qc authentique",
+          "german_word": "etw. authentisch wirken lassen / machen",
+          "french_example": "Les vêtements et la musique de l'époque rendent le film authentique.",
+          "german_example": "Die Kleidung und die Musik der damaligen Zeit lassen den Film authentisch wirken."
+        },
+        {
+          "french_word": "le documentaire",
+          "german_word": "der Dokumentarfilm",
+          "french_example": "Ce documentaire me plaît beaucoup.",
+          "german_example": "Dieser Dokumentarfilm gefällt mir sehr."
+        },
+        {
+          "french_word": "le quotidien",
+          "german_word": "der Alltag",
+          "french_example": "Ma famille, mes amis, l'école, les devoirs, c'est mon quotidien.",
+          "german_example": "Meine Familie, meine Freunde, die Schule, die Hausaufgaben, das ist mein Alltag."
+        },
+        {
+          "french_word": "le goût",
+          "german_word": "der Geschmack, die Vorliebe",
+          "french_example": "Ma copine et moi, on aime les mêmes choses, nous avons les mêmes goûts.",
+          "german_example": "Meine Freundin und ich lieben die gleichen Dinge, wir haben denselben Geschmack."
+        },
+        {
+          "french_word": "en particulier",
+          "german_word": "insbesondere, vor allem",
+          "french_example": "J'aime bien la mer, en particulier la mer Méditerranée.",
+          "german_example": "Ich mag das Meer sehr, insbesondere das Mittelmeer."
+        },
+        {
+          "french_word": "vivant/vivante",
+          "german_word": "lebendig",
+          "french_example": "Dans ma ville, il y a plein de choses à faire, c'est une ville vivante.",
+          "german_example": "In meiner Stadt gibt es jede Menge zu tun, das ist eine lebendige Stadt."
+        },
+        {
+          "french_word": "à la fois",
+          "german_word": "gleichzeitig, auf einmal",
+          "french_example": "Le livre est à la fois drôle et touchant.",
+          "german_example": "Das Buch ist gleichzeitig lustig und berührend."
+        },
+        {
+          "french_word": "captiver qn/qc",
+          "german_word": "jdn/etw. fesseln",
+          "french_example": "Lucie a vu un film qui l'a captivée.",
+          "german_example": "Lucie hat einen Film gesehen, der sie gefesselt hat."
+        },
+        {
+          "french_word": "le spectateur / la spectatrice",
+          "german_word": "der/die Zuschauer/in",
+          "french_example": "Les spectateurs étaient très intéressés par la présentation.",
+          "german_example": "Die Zuschauer waren sehr an der Präsentation interessiert."
+        },
+        {
+          "french_word": "le gros plan",
+          "german_word": "die Nahaufnahme",
+          "french_example": "Dans la plupart des scènes, on voit le visage de l'acteur principal en gros plan.",
+          "german_example": "In den meisten Szenen sieht man das Gesicht des Hauptdarstellers in Nahaufnahme."
+        },
+        {
+          "french_word": "l'emotion",
+          "german_word": "die Gefühlsregung, die Aufregung",
+          "french_example": "Mon père montre ses émotions.",
+          "german_example": "Mein Vater zeigt seine Gefühle."
+        },
+        {
+          "french_word": "l'arrière-plan",
+          "german_word": "der Hintergrund",
+          "french_example": "Au premier plan, il y a un homme en motoneige. À l'arrière-plan on voit un paysage d'hiver.",
+          "german_example": "Im Vordergrund ist ein Mann auf einem Schneemobil. Im Hintergrund sieht man eine Winterlandschaft."
+        },
+        {
+          "french_word": "le comportement",
+          "german_word": "das Verhalten",
+          "french_example": "Mon voisin ne dit jamais bonjour. Son comportement est bizarre.",
+          "german_example": "Mein Nachbar sagt nie Hallo. Sein Verhalten ist seltsam."
+        },
+        {
+          "french_word": "maîtriser qc",
+          "german_word": "etw. beherrschen",
+          "french_example": "Mon ami Karol vient d'arriver en France. Il ne maîtrise pas encore la langue.",
+          "german_example": "Mein Freund Karol ist gerade in Frankreich angekommen. Er beherrscht die Sprache noch nicht."
+        },
+        {
+          "french_word": "la situation",
+          "german_word": "die Situation",
+          "french_example": "Hier, j'ai dû aller au tableau. C'était une situation pénible !",
+          "german_example": "Gestern musste ich an die Tafel gehen. Das war eine unangenehme Situation !"
+        },
+        {
+          "french_word": "le conseil de classe",
+          "german_word": "die Klassenkonferenz",
+          "french_example": "Le conseil de classe sert à prendre des décisions sur l'avenir des élèves.",
+          "german_example": "Die Klassenkonferenz dient dazu, Entscheidungen über die Zukunft der Schüler zu treffen."
+        },
+        {
+          "french_word": "le dialogue",
+          "german_word": "der Dialog",
+          "french_example": "Je comprends bien l'anglais, mais ce dialogue est trop compliqué.",
+          "german_example": "Ich verstehe Englisch gut, aber dieser Dialog ist zu kompliziert."
+        },
+        {
+          "french_word": "professionnel/professionnelle",
+          "german_word": "professionell, beruflich",
+          "french_example": "Omar Sy est un acteur professionnel.",
+          "german_example": "Omar Sy ist ein professioneller Schauspieler."
+        },
+        {
+          "french_word": "reprocher qc à qn",
+          "german_word": "jdm etw. vorwerfen",
+          "french_example": "Ma grand-mère m'a reproché de ne pas l'appeler assez souvent.",
+          "german_example": "Meine Großmutter hat mir vorgeworfen, sie nicht oft genug anzurufen."
+        },
+        {
+          "french_word": "le moment-clé",
+          "german_word": "der Schlüsselmoment",
+          "french_example": "D'après toi, c'est quand, le moment-clé du film ?",
+          "german_example": "Wann ist deiner Meinung nach der Schlüsselmoment des Films ?"
+        },
+        {
+          "french_word": "dégénérer",
+          "german_word": "ausarten, sich verschlechtern",
+          "french_example": "Non, je ne veux plus de fête chez nous. À chaque fois, ça dégénère !",
+          "german_example": "Nein, ich will keine Partys mehr bei uns zu Hause. Jedes Mal artet es aus !"
+        },
+        {
+          "french_word": "le délégué de classe / la déléguée de classe",
+          "german_word": "der/die Schülervertreter/in",
+          "french_example": "Les délégués de classe parlent pour nous avec les profs et les surveillants.",
+          "german_example": "Die Klassensprecher sprechen für uns mit den Lehrern und den Aufsichtspersonen."
+        },
+        {
+          "french_word": "complètement",
+          "german_word": "ganz, vollständig",
+          "french_example": "J'ai complètement oublié son anniversaire !",
+          "german_example": "Ich habe seinen Geburtstag völlig vergessen !"
+        },
+        {
+          "french_word": "la comédie",
+          "german_word": "die Komödie",
+          "french_example": "Si la pièce de théâtre est drôle, c'est une comédie.",
+          "german_example": "Wenn das Theaterstück lustig ist, ist es eine Komödie."
+        },
+        {
+          "french_word": "qui s'inspire de ...",
+          "german_word": "der auf ... basiert",
+          "french_example": "Il y a beaucoup de films qui s'inspirent d'une œuvre littéraire.",
+          "german_example": "Es gibt viele Filme, die auf einem literarischen Werk basieren."
+        },
+        {
+          "french_word": "emmener qn/qc",
+          "german_word": "jdn/etw. mitnehmen",
+          "french_example": "Je pars en vacances et cette fois, je veux emmener mon chien.",
+          "german_example": "Ich fahre in den Urlaub und dieses Mal möchte ich meinen Hund mitnehmen."
         }
       ]
     }

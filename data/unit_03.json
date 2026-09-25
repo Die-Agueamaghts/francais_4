@@ -1,158 +1,1130 @@
 {
   "categories": [
     {
-      "id": "unit_03_kapitel_01",
-      "name": "Kapitel 01 – Im Café",
+      "id": "unite_3_volet_1",
+      "name": "Unité 3 | Volet 1",
       "cards": [
         {
-          "french_word": "un café",
-          "german_word": "eine Cafétasse / ein Café",
-          "french_example": "Je prends un café noir.",
-          "german_example": "Ich nehme einen schwarzen Kaffee."
+          "french_word": "Grand Est",
+          "german_word": "wörtlich: Großer Osten, eine der 13 Verwaltungsregionen Frankreichs",
+          "french_example": "Je viens du Grand Est, j'habite en Alsace.",
+          "german_example": "Ich komme aus dem Grand Est, ich wohne im Elsass."
         },
         {
-          "french_word": "un menu",
-          "german_word": "eine Speisekarte",
-          "french_example": "Le menu est sur la table.",
-          "german_example": "Die Speisekarte liegt auf dem Tisch."
+          "french_word": "frontalier/ière (de)",
+          "german_word": "angrenzend (zu)",
+          "french_example": "La Belgique est frontalière de la France.",
+          "german_example": "Belgien grenzt an Frankreich."
         },
         {
-          "french_word": "une boisson",
-          "german_word": "ein Getränk",
-          "french_example": "Quelle boisson préfères-tu ?",
-          "german_example": "Welches Getränk magst du lieber?"
+          "french_word": "le Luxembourg",
+          "german_word": "Luxemburg (Land)",
+          "french_example": "Le Luxembourg est un très petit pays.",
+          "german_example": "Luxemburg ist ein sehr kleines Land."
         },
         {
-          "french_word": "un jus d’orange",
-          "german_word": "ein Orangensaft",
-          "french_example": "Je bois un jus d’orange.",
-          "german_example": "Ich trinke einen Orangensaft."
+          "french_word": "regrouper qn/qc",
+          "german_word": "jdn/etw. zusammenfassen",
+          "french_example": "On a regroupé les élèves par classes.",
+          "german_example": "Man hat die Schüler nach Klassen zusammengefasst."
         },
         {
-          "french_word": "un sandwich",
-          "german_word": "ein Sandwich",
-          "french_example": "Le sandwich est délicieux.",
-          "german_example": "Das Sandwich ist köstlich."
+          "french_word": "la Lorraine",
+          "german_word": "Lothringen historische Region im Nordosten Frankreichs",
+          "french_example": "",
+          "german_example": ""
         },
         {
-          "french_word": "une glace",
-          "german_word": "ein Eis",
-          "french_example": "Je prends une glace au chocolat.",
-          "german_example": "Ich nehme ein Schokoladeneis."
+          "french_word": "la Champagne-Ardenne",
+          "german_word": "die Champagne-Ardenne historische Region im Nordosten Frankreichs",
+          "french_example": "",
+          "german_example": ""
         },
         {
-          "french_word": "commander",
-          "german_word": "bestellen",
-          "french_example": "Je vais commander un plat.",
-          "german_example": "Ich werde ein Gericht bestellen."
+          "french_word": "politique",
+          "german_word": "politisch",
+          "french_example": "L'Allemagne joue un rôle politique important.",
+          "german_example": "Deutschland spielt eine wichtige politische Rolle."
         },
         {
-          "french_word": "payer",
-          "german_word": "bezahlen",
-          "french_example": "Il faut payer l’addition.",
-          "german_example": "Man muss die Rechnung bezahlen."
+          "french_word": "le parlement",
+          "german_word": "das Parlament",
+          "french_example": "Le parlement européen se trouve à Strasbourg.",
+          "german_example": "Das Europäische Parlament befindet sich in Straßburg."
         },
         {
-          "french_word": "le service",
-          "german_word": "der Service",
-          "french_example": "Le service est rapide.",
-          "german_example": "Der Service ist schnell."
+          "french_word": "européen/européenne",
+          "german_word": "europäisch",
+          "french_example": "J'aime vivre dans un pays européen.",
+          "german_example": "Ich lebe gerne in einem europäischen Land."
         },
         {
-          "french_word": "une table",
-          "german_word": "ein Tisch",
-          "french_example": "La table est près de la fenêtre.",
-          "german_example": "Der Tisch steht am Fenster."
+          "french_word": "l'influence",
+          "german_word": "der Einfluss",
+          "french_example": "On sent l'influence de la culture allemande dans les rues de Strasbourg.",
+          "german_example": "Man spürt den Einfluss der deutschen Kultur in den Straßen von Straßburg."
         },
         {
-          "french_word": "le serveur",
-          "german_word": "der Kellner",
-          "french_example": "Le serveur apporte la commande.",
-          "german_example": "Der Kellner bringt die Bestellung."
+          "french_word": "Potsdam",
+          "german_word": "Potsdam Stadt in der Nähe von Berlin",
+          "french_example": "",
+          "german_example": ""
         },
         {
-          "french_word": "la serveuse",
-          "german_word": "die Kellnerin",
-          "french_example": "La serveuse est très gentille.",
-          "german_example": "Die Kellnerin ist sehr nett."
+          "french_word": "Versailles",
+          "german_word": "Versailles Stadt in der Nähe von Paris",
+          "french_example": "Le château de Louis XIV se trouve à Versailles.",
+          "german_example": "Das Schloss von Ludwig XIV. befindet sich in Versailles."
+        },
+        {
+          "french_word": "jumelé/jumelée",
+          "german_word": "Partner- + Nomen",
+          "french_example": "Lyon et Leipzig sont des villes jumelées.",
+          "german_example": "Lyon und Leipzig sind Partnerstädte."
+        },
+        {
+          "french_word": "Charles de Gaulle",
+          "german_word": "französischer Politiker und Staatspräsident (1890–1970)",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "Konrad Adenauer",
+          "german_word": "deutscher Politiker und erster Bundeskanzler (1876–1967)",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "la Petite France",
+          "german_word": "Stadtviertel von Straßburg",
+          "french_example": "Veux-tu regarder mes photos de la Petite France ?",
+          "german_example": "Möchtest du meine Fotos von Petite France anschauen?"
+        },
+        {
+          "french_word": "Kehl",
+          "german_word": "Stadt in Baden-Württemberg in der Nähe von Straßburg",
+          "french_example": "La ville de Kehl est frontalière de Strasbourg.",
+          "german_example": "Die Stadt Kehl grenzt an Straßburg."
+        },
+        {
+          "french_word": "le regard",
+          "german_word": "der Blick",
+          "french_example": "L'émission a un regard interessant sur l'amitié franco-allemande.",
+          "german_example": "Die Sendung hat einen interessanten Blick auf die deutsch-französische Freundschaft."
+        },
+        {
+          "french_word": "le traité de l'Élysée",
+          "german_word": "der Élyséevertrag (1963)",
+          "french_example": "Le traité de l'Élysée est un traité d'amitié entre la France et l'Allemagne.",
+          "german_example": "Der Élysée-Vertrag ist ein Freundschaftsvertrag zwischen Frankreich und Deutschland."
+        },
+        {
+          "french_word": "le traité",
+          "german_word": "der Vertrag, das Abkommen",
+          "french_example": "Ce pays a signé le traité.",
+          "german_example": "Dieses Land hat den Vertrag unterzeichnet."
+        },
+        {
+          "french_word": "l'ennemii/ennemie",
+          "german_word": "der Feind/die Feindin",
+          "french_example": "Pendant un match, l'équipe qui joue contre nous, c'est notre ennemie.",
+          "german_example": "Während eines Spiels ist die Mannschaft, die gegen uns spielt, unser Feind."
+        },
+        {
+          "french_word": "la guerre franco-prussienne",
+          "german_word": "der französisch-preußische Krieg",
+          "french_example": "La guerre franco-prussienne a duré deux ans: de 1870 à 1871.",
+          "german_example": "Der Französisch-Preußische Krieg dauerte zwei Jahre: von 1870 bis 1871."
+        },
+        {
+          "french_word": "la Première Guerre mondiale",
+          "german_word": "der Erste Weltkrieg",
+          "french_example": "La Première Guerre mondiale a eu lieu de 1914 à 1918.",
+          "german_example": "Der Erste Weltkrieg fand von 1914 bis 1918 statt."
+        },
+        {
+          "french_word": "le mort/la morte",
+          "german_word": "der/die Tote",
+          "french_example": "La Première Guerre mondiale a fait plus de 3,4 millions de morts.",
+          "german_example": "Der Erste Weltkrieg hat mehr als 3,4 Millionen Tote gefordert."
+        },
+        {
+          "french_word": "faire des morts",
+          "german_word": "Tote verursachen",
+          "french_example": "L'accident était très grave. Il a fait des morts.",
+          "german_example": "Der Unfall war sehr schwer. Er hat Todesopfer gefordert."
+        },
+        {
+          "french_word": "la Seconde Guerre mondiale",
+          "german_word": "der Zweite Weltkrieg",
+          "french_example": "La Seconde Guerre mondiale était la dernière guerre entre les Allemands et les Français.",
+          "german_example": "Der Zweite Weltkrieg war der letzte Krieg zwischen den Deutschen und den Franzosen."
+        },
+        {
+          "french_word": "la paix",
+          "german_word": "der Frieden",
+          "french_example": "Les traités de paix mettent fin aux guerres.",
+          "german_example": "Friedensverträge beenden Kriege."
+        },
+        {
+          "french_word": "la réconciliation",
+          "german_word": "die Versöhnung",
+          "french_example": "Mon père et mon oncle ne se parlaient plus. Maintenant, il y a eu une réconciliation.",
+          "german_example": "Mein Vater und mein Onkel haben nicht mehr miteinander gesprochen. Jetzt hat eine Versöhnung stattgefunden."
+        },
+        {
+          "french_word": "sembler",
+          "german_word": "scheinen",
+          "french_example": "Le prix me semble exagéré.",
+          "german_example": "Der Preis scheint mir übertrieben."
+        },
+        {
+          "french_word": "le président / la présidente",
+          "german_word": "der/die Präsident/in",
+          "french_example": "John F. Kennedy était président des États-Unis.",
+          "german_example": "John F. Kennedy war Präsident der Vereinigten Staaten."
+        },
+        {
+          "french_word": "le chancelier / la chancelière",
+          "german_word": "der/die Kanzler/in",
+          "french_example": "Angela Merkel est la première chancelière en Allemagne.",
+          "german_example": "Angela Merkel ist die erste Kanzlerin in Deutschland."
+        },
+        {
+          "french_word": "le tour de force",
+          "german_word": "der Kraftakt",
+          "french_example": "Mon bac était un tour de force, pour moi et pour ma familie !",
+          "german_example": "Mein Abitur war ein Kraftakt, für mich und für meine Familie!"
+        },
+        {
+          "french_word": "signer qc",
+          "german_word": "etw. unterschreiben",
+          "french_example": "N'oublie pas de signer ta lettre !",
+          "german_example": "Vergiss nicht, deinen Brief zu unterschreiben!"
+        },
+        {
+          "french_word": "déclarer qc",
+          "german_word": "etw. verkünden, erklären",
+          "french_example": "Il lui a déclaré son amour dans un texto.",
+          "german_example": "Er hat ihr seine Liebe in einer SMS gestanden."
+        },
+        {
+          "french_word": "coopérer",
+          "german_word": "kooperieren, zusammenarbeiten",
+          "french_example": "L'Allemagne veut coopérer avec beaucoup de Pays d'Afrique.",
+          "german_example": "Deutschland möchte mit vielen Ländern Afrikas zusammenarbeiten."
+        },
+        {
+          "french_word": "la politique",
+          "german_word": "die Politik",
+          "french_example": "Je m'intéresse à la politique. J'espère changer les choses.",
+          "german_example": "Ich interessiere mich für Politik. Ich hoffe, Dinge zu verändern."
+        },
+        {
+          "french_word": "la politique étrangère",
+          "german_word": "die Außenpolitik",
+          "french_example": "Le père de mon corres n'aime pas la politique étrangère de son pays.",
+          "german_example": "Der Vater meines Austauschpartners mag die Außenpolitik seines Landes nicht."
+        },
+        {
+          "french_word": "l'objectif",
+          "german_word": "das Ziel",
+          "french_example": "Mon objectif est de faire le tour du monde à vélo.",
+          "german_example": "Mein Ziel ist es, die Welt mit dem Fahrrad zu umrunden."
+        },
+        {
+          "french_word": "rapprocher qn/qc",
+          "german_word": "hier: einander näherbringen",
+          "french_example": "L'échange a rapproché les deux écoles.",
+          "german_example": "Der Austausch hat die beiden Schulen einander nähergebracht."
+        },
+        {
+          "french_word": "le citoyen / la citoyenne",
+          "german_word": "der/die Bürger/in",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "le gouvernement",
+          "german_word": "die Regierung",
+          "french_example": "Le gouvernement prend des décisions pour tout le pays.",
+          "german_example": "Die Regierung trifft Entscheidungen für das ganze Land."
+        },
+        {
+          "french_word": "l'enseignement",
+          "german_word": "der Unterricht, das Schulwesen",
+          "french_example": "Les professeurs travaillent dans l'enseignement.",
+          "german_example": "Die Lehrer arbeiten im Schulwesen."
+        },
+        {
+          "french_word": "la création",
+          "german_word": "die Gründung",
+          "french_example": "Mon père a aidé mon frère à la création de son entreprise.",
+          "german_example": "Mein Vater hat meinem Bruder bei der Gründung seines Unternehmens geholfen."
+        },
+        {
+          "french_word": "l'OFAJ (l'Office franco-allemand pour la Jeunesse)",
+          "german_word": "das DFJW (das Deutsch-Französische Jugendwerk)",
+          "french_example": "L'OFAJ m'a aidé à trouver un stage en France.",
+          "german_example": "Das DFJW hat mir geholfen, ein Praktikum in Frankreich zu finden."
+        },
+        {
+          "french_word": "faire la connaissance de qn/qc",
+          "german_word": "jdn/etw. kennenlernen",
+          "french_example": "Je n'ai jamais fait la connaissance de mon grand-père.",
+          "german_example": "Ich habe meinen Großvater nie kennengelernt."
+        },
+        {
+          "french_word": "voir le jour",
+          "german_word": "ins Leben gerufen werden",
+          "french_example": "Le Tour de France a vu le jour en 1903.",
+          "german_example": "Die Tour de France wurde 1903 ins Leben gerufen."
+        },
+        {
+          "french_word": "le jumelage",
+          "german_word": "die (Städte-)Partnerschaft",
+          "french_example": "On a créé des jumelages pour rapprocher les deux pays.",
+          "german_example": "Man hat Städtepartnerschaften ins Leben gerufen, um die beiden Länder einander näherzubringen."
+        },
+        {
+          "french_word": "se développer",
+          "german_word": "sich entwickeln",
+          "french_example": "Le tourisme sportif se développe depuis des années en Suisse romande.",
+          "german_example": "Der Sporttourismus entwickelt sich seit Jahren in der Westschweiz."
+        },
+        {
+          "french_word": "le côté",
+          "german_word": "die Seite",
+          "french_example": "Mon collège est de l'autre côté de la rue. C'est tout près.",
+          "german_example": "Meine Schule ist auf der anderen Straßenseite. Es ist ganz in der Nähe."
+        },
+        {
+          "french_word": "la réalité",
+          "german_word": "die Realität, die Wirklichkeit",
+          "french_example": "Un rêve n'est pas la réalité.",
+          "german_example": "Ein Traum ist nicht die Realität."
+        },
+        {
+          "french_word": "le prénom",
+          "german_word": "der Vorname",
+          "french_example": "Tu t'appelles comment ? Je n'ai pas compris ton prénom.",
+          "german_example": "Wie heißt du? Ich habe deinen Vornamen nicht verstanden."
+        },
+        {
+          "french_word": "la nationalité",
+          "german_word": "die Staatsangehörigkeit, die Nationalität",
+          "french_example": "J'ai la nationalité allemande.",
+          "german_example": "Ich habe die deutsche Staatsangehörigkeit."
+        },
+        {
+          "french_word": "la profession",
+          "german_word": "Beruf",
+          "french_example": "Je n'ai pas choisi ma profession. J'ai trouvé mon métier par hasard.",
+          "german_example": "Ich habe meinen Beruf nicht gewählt. Ich habe meine Arbeit durch Zufall gefunden."
+        },
+        {
+          "french_word": "l'homme politique / la femme politique",
+          "german_word": "der/die Politiker/in",
+          "french_example": "Barack Obama est un homme politique très connu.",
+          "german_example": "Barack Obama ist ein sehr bekannter Politiker."
+        },
+        {
+          "french_word": "la carrière",
+          "german_word": "die Karriere, die Laufbahn",
+          "french_example": "Dans le foot, on arrête sa carrière quand on est encore jeune.",
+          "german_example": "Im Fußball beendet man seine Karriere, wenn man noch jung ist."
+        },
+        {
+          "french_word": "le maire",
+          "german_word": "der/die Bürgermeister/in",
+          "french_example": "Dans une ville, le maire doit s'occuper de tout.",
+          "german_example": "In einer Stadt muss sich der Bürgermeister um alles kümmern."
+        },
+        {
+          "french_word": "Cologne",
+          "german_word": "Köln",
+          "french_example": "Mon frère vit à Cologne.",
+          "german_example": "Mein Bruder lebt in Köln."
+        },
+        {
+          "french_word": "le nazisme",
+          "german_word": "der Nationalsozialismus",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "la République fédérale d'Allemagne (RFA)",
+          "german_word": "Bundesrepublik Deutschland (BRD)",
+          "french_example": "Nous habitons en RFA.",
+          "german_example": "Wir wohnen in der BRD."
+        },
+        {
+          "french_word": "le général",
+          "german_word": "der General",
+          "french_example": "De Gaulle était d'abord général et ensuite il a fait une carrière politique.",
+          "german_example": "De Gaulle war zuerst General und machte dann eine politische Karriere."
+        },
+        {
+          "french_word": "Londres",
+          "german_word": "London",
+          "french_example": "Nils veut passer une année à Londres.",
+          "german_example": "Nils möchte ein Jahr in London verbringen."
+        },
+        {
+          "french_word": "provisoire",
+          "german_word": "vorläufig, provisorisch",
+          "french_example": "Nous avons trouvé une solution provisoire.",
+          "german_example": "Wir haben eine vorübergehende Lösung gefunden."
+        },
+        {
+          "french_word": "la chaîne",
+          "german_word": "hier: der Sender",
+          "french_example": "ARTE est une chaîne de télévision franco-allemande.",
+          "german_example": "ARTE ist ein deutsch-französischer Fernsehsender."
+        },
+        {
+          "french_word": "Aix-la-Chapelle",
+          "german_word": "Aachen",
+          "french_example": "Ma cousine habite à Aix-la-Chapelle.",
+          "german_example": "Meine Cousine wohnt in Aachen."
+        },
+        {
+          "french_word": "la coopération",
+          "german_word": "die Kooperation, die Zusammenarbeit",
+          "french_example": "Il existe une coopération zwischen ces deux entreprises.",
+          "german_example": "Es gibt eine Zusammenarbeit zwischen diesen beiden Unternehmen."
+        },
+        {
+          "french_word": "l'intégration",
+          "german_word": "die Integration",
+          "french_example": "L'intégration des handicapés est importante dans mon école.",
+          "german_example": "Die Integration von Menschen mit Behinderung ist wichtig an meiner Schule."
+        },
+        {
+          "french_word": "prévoir qc",
+          "german_word": "etw. vorsehen",
+          "french_example": "Qu'est-ce que tu as prévu ce soir au dîner ?",
+          "german_example": "Was hast du heute Abend zum Abendessen vorgesehen?"
+        },
+        {
+          "french_word": "les nouvelles technologies",
+          "german_word": "die neuen Medien",
+          "french_example": "Souvent, les parents sont plus mal à l'aise avec les nouvelles technologies que leurs enfants.",
+          "german_example": "Oft fühlen sich Eltern mit den neuen Medien unwohler als ihre Kinder."
+        },
+        {
+          "french_word": "la société numérique",
+          "german_word": "die digitale Gesellschaft",
+          "french_example": "J'écoute une émission intéressante sur la société numérique.",
+          "german_example": "Ich höre eine interessante Sendung über die digitale Gesellschaft."
+        },
+        {
+          "french_word": "le centre de recherche",
+          "german_word": "das Forschungszentrum",
+          "french_example": "Plus tard, je voudrais travailler dans un centre de recherche.",
+          "german_example": "Später möchte ich in einem Forschungszentrum arbeiten."
+        },
+        {
+          "french_word": "l'intelligence artificielle",
+          "german_word": "die künstliche Intelligenz",
+          "french_example": "Mon père est le chef d'un centre de recherche pour l'intelligence artificielle.",
+          "german_example": "Mein Vater ist der Leiter eines Forschungszentrums für künstliche Intelligenz."
         }
       ]
     },
     {
-      "id": "unit_03_kapitel_02",
-      "name": "Kapitel 02 – Freizeit und Reisen",
+      "id": "unite_3_volet_2",
+      "name": "Unité 3 | Volet 2",
       "cards": [
         {
-          "french_word": "les vacances",
-          "german_word": "die Ferien",
-          "french_example": "Les vacances commencent en juillet.",
-          "german_example": "Die Ferien beginnen im Juli."
+          "french_word": "recevoir qn/qc",
+          "german_word": "jdn empfangen, etw. erhalten",
+          "french_example": "– Est-ce que vous avez reçu ma candidature ? – Attendez, je vais regarder.",
+          "german_example": "– Haben Sie meine Bewerbung erhalten? – Warten Sie, ich werde nachsehen."
         },
         {
-          "french_word": "voyager",
-          "german_word": "reisen",
-          "french_example": "On aime voyager en Europe.",
-          "german_example": "Wir reisen gern durch Europa."
+          "french_word": "bavarois/bavaroise",
+          "german_word": "bayerisch",
+          "french_example": "Mon corres a un accent bavarois. Il vient d'Inzell. C'est dans le sud de la Bavière.",
+          "german_example": "Mein Austauschpartner hat einen bayerischen Akzent. Er kommt aus Inzell. Das liegt im Süden von Bayern."
         },
         {
-          "french_word": "un billet",
-          "german_word": "eine Fahrkarte / ein Ticket",
-          "french_example": "J’ai un billet pour le train.",
-          "german_example": "Ich habe ein Ticket für den Zug."
+          "french_word": "s'enfuir",
+          "german_word": "fliehen, davonsausen",
+          "french_example": "Un homme s'est enfui. Il a volé quelque chose.",
+          "german_example": "Ein Mann ist geflohen. Er hat etwas gestohlen."
         },
         {
-          "french_word": "un train",
-          "german_word": "ein Zug",
-          "french_example": "Le train part à huit heures.",
-          "german_example": "Der Zug fährt um acht Uhr ab."
+          "french_word": "solennel/solennelle",
+          "german_word": "feierlich",
+          "french_example": "Cette fête est très solennelle. Même le maire est venu.",
+          "german_example": "Dieses Fest ist sehr feierlich. Sogar der Bürgermeister ist gekommen."
         },
         {
-          "french_word": "une gare",
-          "german_word": "ein Bahnhof",
-          "french_example": "La gare est très grande.",
-          "german_example": "Der Bahnhof ist sehr groß."
+          "french_word": "et patati et patata",
+          "german_word": "und so weiter und so fort",
+          "french_example": "Mes parents me disent du matin au soir : « Arrête de jouer aux jeux vidéo », « Donne-nous ton portable », et patati et patata.",
+          "german_example": "Meine Eltern sagen mir von morgens bis abends: „Hör auf, Videospiele zu spielen“, „Gib uns dein Handy“ und so weiter und so fort."
         },
         {
-          "french_word": "un hôtel",
-          "german_word": "ein Hotel",
-          "french_example": "Nous logeons dans un hôtel moderne.",
-          "german_example": "Wir wohnen in einem modernen Hotel."
+          "french_word": "décevoir qn",
+          "german_word": "jdn enttäuschen",
+          "french_example": "Mes amis ne me déçoivent jamais.",
+          "german_example": "Meine Freunde enttäuschen mich nie."
         },
         {
-          "french_word": "une ville",
-          "german_word": "eine Stadt",
-          "french_example": "Cette ville est très belle.",
-          "german_example": "Diese Stadt ist sehr schön."
+          "french_word": "sourire",
+          "german_word": "lächeln",
+          "french_example": "Anne et Loïc, souriez pour la photo, s'il vous plaît !",
+          "german_example": "Anne und Loïc, lächelt bitte für das Foto!"
         },
         {
-          "french_word": "voir",
-          "german_word": "sehen",
-          "french_example": "Je veux voir la mer.",
-          "german_example": "Ich möchte das Meer sehen."
+          "french_word": "comme si",
+          "german_word": "so, als ob",
+          "french_example": "Il a fait comme si il dormait, mais je l'ai vu ouvrir ses yeux !",
+          "german_example": "Er hat so getan, als ob er schliefe, aber ich habe gesehen, wie er seine Augen geöffnet hat!"
         },
         {
-          "french_word": "acheter",
-          "german_word": "kaufen",
-          "french_example": "Je vais acheter des souvenirs.",
-          "german_example": "Ich werde Souvenirs kaufen."
+          "french_word": "cette fois",
+          "german_word": "diesmal, dieses Mal",
+          "french_example": "Cette fois, je viens avec vous au cinéma.",
+          "german_example": "Dieses Mal komme ich mit euch ins Kino."
         },
         {
-          "french_word": "une carte postale",
-          "german_word": "eine Postkarte",
-          "french_example": "J’envoie une carte postale à ma mère.",
-          "german_example": "Ich schicke meiner Mutter eine Postkarte."
+          "french_word": "gratuitement",
+          "german_word": "kostenlos, gratis",
+          "french_example": "Quelle chance ! Nous n'avons rien payé. Le cinéma était gratuit.",
+          "german_example": "Was für ein Glück! Wir haben nichts bezahlt. Das Kino war kostenlos."
         },
         {
-          "french_word": "le soleil",
-          "german_word": "die Sonne",
-          "french_example": "Le soleil brille aujourd’hui.",
-          "german_example": "Die Sonne scheint heute."
+          "french_word": "l'appli (l'application)",
+          "german_word": "die App",
+          "french_example": "Avec cette appli, on peut retrouver son chemin.",
+          "german_example": "Mit dieser App kann man seinen Weg finden."
         },
         {
-          "french_word": "la plage",
-          "german_word": "der Strand",
-          "french_example": "Nous allons à la plage.",
-          "german_example": "Wir gehen an den Strand."
+          "french_word": "l'audioguide",
+          "german_word": "der Audioguide",
+          "french_example": "Je prends un audioguide en français, sinon je ne vais rien comprendre pendant la visite.",
+          "german_example": "Ich nehme einen Audioguide auf Französisch, sonst werde ich während der Besichtigung nichts verstehen."
+        },
+        {
+          "french_word": "la carte interactive",
+          "german_word": "die interaktive Karte",
+          "french_example": "C'est une carte interactive du musée: tu peux visiter le musée en ligne de chez toi.",
+          "german_example": "Das ist eine interaktive Karte des Museums: Du kannst das Museum online von zu Hause aus besuchen."
+        },
+        {
+          "french_word": "l'espace Wi-Fi",
+          "german_word": "die W-LAN-Zone",
+          "french_example": "A l'école, nous avons un espace Wi-Fi.",
+          "german_example": "In der Schule haben wir eine W-LAN-Zone."
+        },
+        {
+          "french_word": "recharger qc",
+          "german_word": "etw. aufladen",
+          "french_example": "Je dois recharger mon portable.",
+          "german_example": "Ich muss mein Handy aufladen."
+        },
+        {
+          "french_word": "la borne de rechargement",
+          "german_word": "die Ladestation",
+          "french_example": "Où est la prochaine borne de rechargement, s'il vous plaît ?",
+          "german_example": "Wo ist bitte die nächste Ladestation?"
+        },
+        {
+          "french_word": "le rechargement",
+          "german_word": "das Aufladen",
+          "french_example": "Le rechargement dure trop longtemps. C'est bizarre.",
+          "german_example": "Das Aufladen dauert zu lange. Das ist seltsam."
+        },
+        {
+          "french_word": "au milieu (de qc)",
+          "german_word": "in der Mitte (von etw.)",
+          "french_example": "Sur cette photo, je suis au milieu, entre mon frère et ma mère.",
+          "german_example": "Auf diesem Foto bin ich in der Mitte, zwischen meinem Bruder und meiner Mutter."
+        },
+        {
+          "french_word": "se balader",
+          "german_word": "spazieren gehen, herumlaufen",
+          "french_example": "Cet après-midi, j'ai envie de se balader en ville.",
+          "german_example": "Heute Nachmittag habe ich Lust, in der Stadt herumzulaufen."
+        },
+        {
+          "french_word": "assister à qc",
+          "german_word": "dabei sein, an etw. teilnehmen",
+          "french_example": "J'ai envie d'assister à un concert de Zaz.",
+          "german_example": "Ich habe Lust, an einem Konzert von Zaz teilzunehmen."
+        },
+        {
+          "french_word": "déçu/déçue",
+          "german_word": "enttäuscht",
+          "french_example": "Son meilleur ami ne vient pas à son anniversaire. Il est très déçu.",
+          "german_example": "Sein bester Freund kommt nicht zu seinem Geburtstag. Er ist sehr enttäuscht."
+        },
+        {
+          "french_word": "Ça vaut le coup!",
+          "german_word": "Das lohnt sich!",
+          "french_example": "Dans ce magasin, rien n'est cher. Viens, ça vaut le coup ! On trouvera sûrement un cadeau sympa pour ta copine.",
+          "german_example": "In diesem Geschäft ist nichts teuer. Komm, das lohnt sich! Wir finden bestimmt ein nettes Geschenk für deine Freundin."
+        },
+        {
+          "french_word": "la chapelle royale",
+          "german_word": "die königliche Kapelle",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "la galerie des Glaces",
+          "german_word": "der Spiegelsaal",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "le bassin de Neptune",
+          "german_word": "das Neptunbecken",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "les Grandes Eaux Musicales",
+          "german_word": "Wasserspiele von Versailles",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "l'hectare",
+          "german_word": "der Hektar",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "la statue",
+          "german_word": "die Statue",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "classé/classée",
+          "german_word": "klassifiziert, eingetragen",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "le patrimoine mondial de l'UNESCO",
+          "german_word": "das UNESCO-Weltkulturerbe",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "la longueur",
+          "german_word": "die Länge",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "le terrain",
+          "german_word": "hier: das Spielfeld",
+          "french_example": "L'entraîneur nous attend au terrain de foot à 15 heures. Dépêche-toi !",
+          "german_example": "Der Trainer erwartet uns um 15 Uhr auf dem Fußballplatz. Beeil dich !"
+        },
+        {
+          "french_word": "le miroir",
+          "german_word": "der Spiegel",
+          "french_example": "Ma sœur passe son temps à se regarder dans le miroir.",
+          "german_example": "Meine Schwester verbringt ihre Zeit damit, sich im Spiegel anzuschauen."
+        },
+        {
+          "french_word": "installer qn",
+          "german_word": "hier: jdn unterbringen",
+          "french_example": "Ma mère a installé mes petits cousins dans ma chambre. Je suis furieuse !",
+          "german_example": "Meine Mutter hat meine kleinen Cousins in meinem Zimmer untergebracht. Ich bin wütend !"
+        },
+        {
+          "french_word": "la cour",
+          "german_word": "der Hof",
+          "french_example": "La cour du roi de France, ce sont tous ces gens qui vivaient autour de lui.",
+          "german_example": "Der Hof des Königs von Frankreich, das sind all die Menschen, die um ihn herum lebten."
+        },
+        {
+          "french_word": "refléter qc",
+          "german_word": "etw. widerspiegeln",
+          "french_example": "Le château de Versailles reflète le pouvoir de Lois XIV.",
+          "german_example": "Das Schloss von Versailles spiegelt die Macht von Ludwig XIV. wider."
+        },
+        {
+          "french_word": "la dette",
+          "german_word": "die Schuld",
+          "french_example": "Je n'aime pas avoir des dettes.",
+          "german_example": "Ich mag es nicht, Schulden zu haben."
+        },
+        {
+          "french_word": "librement",
+          "german_word": "frei",
+          "french_example": "J'aimerais voyager librement sans mes parents.",
+          "german_example": "Ich würde gerne frei und ohne meine Eltern reisen."
+        },
+        {
+          "french_word": "le Roi-Soleil",
+          "german_word": "der Sonnenkönig",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "la monarchie absolue",
+          "german_word": "die absolute Monarchie",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "l'État",
+          "german_word": "der Staat",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "révoquer qc",
+          "german_word": "etw. widerrufen",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "l'Édit de Nantes",
+          "german_word": "das Edikt von Nantes (1598)",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "le protestant / la protestante",
+          "german_word": "der/die Protestant/in Angehörige/r des evangelischen Glaubens",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "le culte",
+          "german_word": "hier: die Religion",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "le serviteur / la servante",
+          "german_word": "der Diener / die Dienerin",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "le courtisan / la courtisane",
+          "german_word": "der Höfling / die Kurtisane",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "le pas",
+          "german_word": "der Schritt",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "la messe",
+          "german_word": "der Gottesdienst",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "le/la ministre",
+          "german_word": "der Minister / die Ministerin",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "la partie de chasse",
+          "german_word": "der Jagdausflug",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "la promenade",
+          "german_word": "der Spaziergang",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "le privilège",
+          "german_word": "das Privileg",
+          "french_example": "",
+          "german_example": ""
+        }
+      ]
+    },
+    {
+      "id": "unite_3_volet_3",
+      "name": "Unité 3 | Volet 3",
+      "cards": [
+        {
+          "french_word": "l'anecdote",
+          "german_word": "die Anekdote",
+          "french_example": "Mon grand-père aime raconter son anecdote. – et moi, j'adore l'écouter.",
+          "german_example": "Mein Großvater erzählt gerne seine Anekdote. – und ich höre ihm unheimlich gerne zu."
+        },
+        {
+          "french_word": "le verre",
+          "german_word": "das Glas",
+          "french_example": "J'ai soif ! Je voudrais un grand verre d'eau, s'il vous plaît.",
+          "german_example": "Ich habe Durst ! Ich hätte gerne ein großes Glas Wasser, bitte."
+        },
+        {
+          "french_word": "le malentendu",
+          "german_word": "das Missverständnis",
+          "french_example": "On s'est disputé pour rien. C'était un malentendu.",
+          "german_example": "Wir haben uns wegen nichts gestritten. Es war ein Missverständnis."
+        },
+        {
+          "french_word": "le faux ami",
+          "german_word": "wörtl.: der falsche Freund Wörter aus unterschiedlichen Sprachen, die sich sehr ähnlich sind, aber nicht dieselbe Bedeutung haben",
+          "french_example": "«La batterie» en français, ce n'est pas «die Batterie» en allemand. Ce sont des faux amis.",
+          "german_example": "„La batterie“ auf Französisch ist nicht „die Batterie“ auf Deutsch. Das sind falsche Freunde."
+        },
+        {
+          "french_word": "sortir qc de qc",
+          "german_word": "hier: etw. herausholen aus",
+          "french_example": "Elle sort toutes ses affaires de sa chambre pour faire la poussière.",
+          "german_example": "Sie holt all ihre Sachen aus ihrem Zimmer, um Staub zu wischen."
+        },
+        {
+          "french_word": "servir à qc",
+          "german_word": "von Nutzen sein, zu etw. dienen wird wie sortir konjugiert",
+          "french_example": "C'est vieux. Ça ne sert plus à grand-chose.",
+          "german_example": "Das ist alt. Das ist nicht mehr zu viel nütze."
+        },
+        {
+          "french_word": "il paraît que",
+          "german_word": "angeblich",
+          "french_example": "Il paraît que on n'a pas anglais aujourd'hui ! – M. Williams est malade.",
+          "german_example": "Angeblich haben wir heute kein Englisch! – Herr Williams ist krank."
+        },
+        {
+          "french_word": "le kiwi",
+          "german_word": "die Kiwi",
+          "french_example": "Le kiwi, c'est un fruit qui a beaucoup de vitamine C.",
+          "german_example": "Die Kiwi ist eine Frucht, die viel Vitamin C hat."
+        },
+        {
+          "french_word": "Il fallait y penser !",
+          "german_word": "Darauf muss man erst mal kommen !",
+          "french_example": "",
+          "german_example": ""
+        },
+        {
+          "french_word": "le Ch'ti",
+          "german_word": "Sprache und Bevölkerungsgruppe in Nordfrankreich",
+          "french_example": "On parle le ch'ti dans le nord de la France.",
+          "german_example": "Man spricht Ch'ti im Norden Frankreichs."
+        },
+        {
+          "french_word": "l'oreiller",
+          "german_word": "das Kopfkissen",
+          "french_example": "C'est agréable de dormir avec un oreiller sous la tête.",
+          "german_example": "Es ist angenehm, mit einem Kissen unter dem Kopf zu schlafen."
+        },
+        {
+          "french_word": "en forme de",
+          "german_word": "in Form von",
+          "french_example": "Pour les enfants, il existe des sacs en forme d'ours.",
+          "german_example": "Für Kinder gibt es Taschen in Form eines Bären."
+        },
+        {
+          "french_word": "gros/grosse",
+          "german_word": "groß, dick",
+          "french_example": "Le gâteau était très bon, alors Luc en a repris un gros morceau.",
+          "german_example": "Der Kuchen war sehr gut, also hat Luc sich noch ein großes Stück genommen."
+        },
+        {
+          "french_word": "la saucisse",
+          "german_word": "die Wurst",
+          "french_example": "Un «hot-dog», c'est un petit pain avec une saucisse chaude.",
+          "german_example": "Ein „Hotdog“ ist ein Brötchen mit einer heißen Wurst."
+        },
+        {
+          "french_word": "la comparaison",
+          "german_word": "der Vergleich",
+          "french_example": "Mes parents font souvent la comparaison entre mon frère et moi. Ça m'énerve !",
+          "german_example": "Meine Eltern ziehen oft den Vergleich zwischen meinem Bruder und mir. Das nervt mich !"
+        },
+        {
+          "french_word": "amusant/amusante",
+          "german_word": "lustig, unterhaltsam",
+          "french_example": "Il y a plein de sites amusants sur Internet.",
+          "german_example": "Es gibt jede Menge lustige Seiten im Internet."
+        },
+        {
+          "french_word": "le traversin",
+          "german_word": "langes Kopfkissen in Form einer Rolle",
+          "french_example": "Tu dors avec un traversin ou avec un oreiller ?",
+          "german_example": "Schläfst du mit einer Nackenrolle oder mit einem Kopfkissen ?"
+        },
+        {
+          "french_word": "partager qc",
+          "german_word": "etw. teilen, etw. aufteilen",
+          "french_example": "Je dois toujours partager avec mon frère, ça m'énerve !",
+          "german_example": "Ich muss immer mit meinem Bruder teilen, das nervt mich !"
+        },
+        {
+          "french_word": "la famille d'accueil",
+          "german_word": "die Gastfamilie",
+          "french_example": "Pendant mon séjour, ma famille d'accueil s'est bien occupée de moi.",
+          "german_example": "Während meines Aufenthalts hat sich meine Gastfamilie gut um mich gekümmert."
+        },
+        {
+          "french_word": "tomber sur qn",
+          "german_word": "zufällig jdn treffen",
+          "french_example": "Hier, je suis tombé sur ta tante. Je faisais des courses au supermarché.",
+          "german_example": "Gestern habe ich zufällig deine Tante getroffen. Ich habe im Supermarkt eingekauft."
+        },
+        {
+          "french_word": "une sorte de + nom",
+          "german_word": "eine Art + Nomen",
+          "french_example": "La motoneige, c'est une sorte de traîneau.",
+          "german_example": "Das Schneemobil ist eine Art Schlitten."
+        },
+        {
+          "french_word": "la pomme de terre",
+          "german_word": "die Kartoffel, der Erdapfel",
+          "french_example": "Les «Klöße» sont une spécialité allemande qu'on fait avec des pommes de terre.",
+          "german_example": "Klöße sind eine deutsche Spezialität, die man aus Kartoffeln macht."
+        },
+        {
+          "french_word": "le morceau / les morceaux",
+          "german_word": "das Stück",
+          "french_example": "Tu veux un ou deux morceaux de sucre ?",
+          "german_example": "Möchtest du ein oder zwei Stück Zucker?"
+        },
+        {
+          "french_word": "goûter qc",
+          "german_word": "etw. probieren, etw. kosten",
+          "french_example": "– Tu as goûté la sauce ? – Oui, il manque un peu de sucre.",
+          "german_example": "– Hast du die Soße probiert? – Ja, es fehlt ein bisschen Zucker."
+        },
+        {
+          "french_word": "unique",
+          "german_word": "einzig, einzigartig",
+          "french_example": "La pyramide du Louvre est unique au monde.",
+          "german_example": "Die Louvre-Pyramide ist weltweit einzigartig."
+        },
+        {
+          "french_word": "l'entraînement",
+          "german_word": "das Training",
+          "french_example": "Demain, l'entraînement commence à 15 heures ! Soyez à l'heure.",
+          "german_example": "Morgen beginnt das Training um 15 Uhr! Seid pünktlich."
+        },
+        {
+          "french_word": "le retard",
+          "german_word": "die Verspätung",
+          "french_example": "Yasmine a toujours du retard.",
+          "german_example": "Yasmine hat immer Verspätung."
+        },
+        {
+          "french_word": "se tromper",
+          "german_word": "sich täuschen, sich irren",
+          "french_example": "Si je ne me trompe pas, ils reviendront mardi.",
+          "german_example": "Wenn ich mich nicht irre, kommen sie am Dienstag zurück."
+        },
+        {
+          "french_word": "avoir qc en tête",
+          "german_word": "sich etw. vorstellen, an etw. denken, wörtl.: etw. im Kopf haben",
+          "french_example": "Ce n'est pas ce que j'avais en tête.",
+          "german_example": "Das ist nicht das, was ich mir vorgestellt hatte."
+        },
+        {
+          "french_word": "la suite",
+          "german_word": "die Folge",
+          "french_example": "Je connais la suite de l'histoire, mais je ne te la raconte pas.",
+          "german_example": "Ich kenne die Fortsetzung der Geschichte, aber ich erzähle sie dir nicht."
+        },
+        {
+          "french_word": "s'abonner à qc",
+          "german_word": "etw. abonnieren",
+          "french_example": "J'aimerais s'abonner à ce magazine franco-allemand, mais c'est très cher.",
+          "german_example": "Ich würde diese deutsch-französische Zeitschrift gerne abonnieren, aber sie ist sehr teuer."
+        }
+      ]
+    },
+    {
+      "id": "module_c",
+      "name": "Module C",
+      "cards": [
+        {
+          "french_word": "avec des si et des mais",
+          "german_word": "wörtl.: mit wenn und aber; wenn das Wörtchen „wenn“ nicht wäre",
+          "french_example": "Avec des si et des mais, on mettrait Paris en bouteille.",
+          "german_example": "Wenn das Wörtchen „wenn“ nicht wäre, wäre ich längst Millionär."
+        },
+        {
+          "french_word": "doux/douce",
+          "german_word": "hier: mild, auch: sanft",
+          "french_example": "Le climat est très doux.",
+          "german_example": "Das Klima ist sehr mild."
+        },
+        {
+          "french_word": "ressentir qc",
+          "german_word": "etw. empfinden wird wie sortir konjugiert",
+          "french_example": "Qu'est-ce que tu ressens pour moi ?",
+          "german_example": "Was empfindest du für mich?"
+        },
+        {
+          "french_word": "au fond de qn/qc",
+          "german_word": "tief im Innern von jdm, tief in etw.",
+          "french_example": "Au fond de moi, je suis très timide.",
+          "german_example": "Tief in meinem Inneren bin ich sehr schüchtern."
+        },
+        {
+          "french_word": "la tempête",
+          "german_word": "das Unwetter, der Sturm",
+          "french_example": "Allez, on rentre ! Il va y avoir une tempête.",
+          "german_example": "Kommt, wir gehen rein! Es gibt gleich ein Unwetter."
+        },
+        {
+          "french_word": "la bouée",
+          "german_word": "der Rettungsring",
+          "french_example": "Il y a une bouée sur le bateau.",
+          "german_example": "Es gibt einen Rettungsring auf dem Boot."
+        },
+        {
+          "french_word": "face à qc/qn",
+          "german_word": "etw./jdm gegenüber",
+          "french_example": "Face à mon frère, je suis gentil.",
+          "german_example": "Meinem Bruder gegenüber bin ich nett."
+        },
+        {
+          "french_word": "le projecteur",
+          "german_word": "der Scheinwerfer",
+          "french_example": "Sur scène, il y a un projecteur.",
+          "german_example": "Auf der Bühne gibt es einen Scheinwerfer."
+        },
+        {
+          "french_word": "le compliment",
+          "german_word": "das Kompliment",
+          "french_example": "N'exagère pas avec tes compliments !",
+          "german_example": "Übertreibe es nicht mit deinen Komplimenten !"
+        },
+        {
+          "french_word": "le jet de fleurs",
+          "german_word": "der Blumenregen",
+          "french_example": "Sur scène, il y a un jet de fleurs.",
+          "german_example": "Auf der Bühne gibt es einen Blumenregen."
+        },
+        {
+          "french_word": "rouillé/rouillée",
+          "german_word": "eingerostet",
+          "french_example": "Mon vélo est rouillé.",
+          "german_example": "Mein Fahrrad ist eingerostet."
+        },
+        {
+          "french_word": "coincé/coincée",
+          "german_word": "hier: steckengeblieben",
+          "french_example": "Le chat est coincé dans l'armoire.",
+          "german_example": "Die Katze ist im Schrank steckengeblieben."
+        },
+        {
+          "french_word": "la routine",
+          "german_word": "die Routine",
+          "french_example": "Le mâtin, tout le monde a sa routine.",
+          "german_example": "Morgens hat jeder seine Routine."
+        },
+        {
+          "french_word": "arriver à qn",
+          "german_word": "hier: jdm passieren",
+          "french_example": "Cela t'arrive de chanter sous la douche ?",
+          "german_example": "Passiert es dir manchmal, dass du unter der Dusche singst ?"
+        },
+        {
+          "french_word": "affalé/affalée",
+          "german_word": "niedergesunken",
+          "french_example": "Mon père est affalé sur sa chaise.",
+          "german_example": "Mein Vater ist auf seinem Stuhl zusammengesunken."
+        },
+        {
+          "french_word": "le canapé",
+          "german_word": "das Sofa, die Couch",
+          "french_example": "On a un grand canapé dans le salon.",
+          "german_example": "Wir haben ein großes Sofa im Wohnzimmer."
+        },
+        {
+          "french_word": "engueuler qn",
+          "german_word": "jdn anschnauzen",
+          "french_example": "Parfois, je veux engueuler mon frère.",
+          "german_example": "Manchmal möchte ich meinen Bruder anschnauzen."
+        },
+        {
+          "french_word": "la lune",
+          "german_word": "der Mond",
+          "french_example": "La lune est belle, ce soir !",
+          "german_example": "Der Mond ist schön heute Abend !"
+        },
+        {
+          "french_word": "tenir compagnie à qn",
+          "german_word": "jdm Gesellschaft leisten",
+          "french_example": "Attends, je te tiens compagnie ?",
+          "german_example": "Warte, soll ich dir Gesellschaft leisten ?"
+        },
+        {
+          "french_word": "déprimer",
+          "german_word": "deprimiert sein",
+          "french_example": "Océane déprime, elle est malheureuse.",
+          "german_example": "Océane ist deprimiert, sie ist unglücklich."
+        },
+        {
+          "french_word": "tellement",
+          "german_word": "so, dermaßen",
+          "french_example": "J'ai tellement faim !",
+          "german_example": "Ich habe solchen Hunger !"
+        },
+        {
+          "french_word": "le type",
+          "german_word": "der Typ, der Kerl",
+          "french_example": "Qui est le type là-bas ?",
+          "german_example": "Wer ist der Typ dort drüben ?"
+        },
+        {
+          "french_word": "l'allée",
+          "german_word": "die Allee",
+          "french_example": "J'habite près de l'allée.",
+          "german_example": "Ich wohne in der Nähe der Allee."
+        },
+        {
+          "french_word": "entier/entière",
+          "german_word": "ganz",
+          "french_example": "Il a mangé le paquet entier.",
+          "german_example": "Er hat die ganze Packung gegessen."
+        },
+        {
+          "french_word": "la bière",
+          "german_word": "das Bier",
+          "french_example": "Je n'aime pas la bière.",
+          "german_example": "Ich mag kein Bier."
+        },
+        {
+          "french_word": "rouler",
+          "german_word": "fahren, rollen",
+          "french_example": "Jean veut rouler en voiture, Yves à vélo.",
+          "german_example": "Jean will mit dem Auto fahren, Yves mit dem Fahrrad."
+        },
+        {
+          "french_word": "le bout",
+          "german_word": "hier: das Stück, auch: das Ende",
+          "french_example": "Tu veux un bout de pain ?",
+          "german_example": "Möchtest du ein Stück Brot ?"
+        },
+        {
+          "french_word": "le pneu",
+          "german_word": "der Reifen",
+          "french_example": "Zut ! Le pneu de mon vélo est crevé !",
+          "german_example": "Mist ! Der Reifen von meinem Fahrrad ist platt !"
+        },
+        {
+          "french_word": "crever",
+          "german_word": "platzen, reißen",
+          "french_example": "Ah non, mon sac avec les courses a crevé !",
+          "german_example": "Ah nein, meine Einkaufstasche ist gerissen !"
         }
       ]
     }
