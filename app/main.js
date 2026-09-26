@@ -279,6 +279,30 @@
     speech.speak(utterance);
   }
 
+  function getSpeechText(text, lang) {
+    const value = String(text || "").trim();
+    if (!lang.toLowerCase().startsWith("fr")) return value;
+
+    return value
+      .replace(/\ble\/la\s+([\p{L}]+)\/e\b/giu, (match, word) => {
+        const stem = word.toLowerCase();
+        return `le ${stem}, la ${stem}e`;
+      })
+      .replace(/([\p{L}]+)\/e\b/giu, "$1, $1e")
+      .replace(/\ble\/la\s+([\p{L}]+(?:-[\p{L}]+)*)\b/giu, "le $1, la $1")
+      .replace(/\bqn\/qc\b/gi, "quelqu'un ou quelque chose")
+      .replace(/\bqc\/qn\b/gi, "quelque chose ou quelqu'un")
+      .replace(/\bqn\b/gi, "quelqu'un")
+      .replace(/\bqc\b/gi, "quelque chose")
+      .replace(/\binf\./gi, "infinitif")
+      .replace(/^(.+?)\s+\/\s+(.+)$/u, "$1, $2")
+      .replace(/\b([\p{L}]+)\/([\p{L}]+)\b/giu, "$1, $2")
+      .replace(/\+\s*nom\b/gi, " plus un nom")
+      .replace(/\s*\+\s*/g, " plus ")
+      .replace(/\s+/g, " ")
+      .trim();
+  }
+
   function renderTextWithPlay(element, text, lang, label) {
     if (!element) return;
 
@@ -296,6 +320,7 @@
     const value = document.createElement("div");
     value.className = "text-value";
     value.textContent = safeText;
+    value.dataset.speechText = getSpeechText(safeText, lang);
 
     const button = document.createElement("button");
     button.type = "button";
@@ -306,7 +331,7 @@
     button.addEventListener("click", (event) => {
       event.preventDefault();
       event.stopPropagation();
-      speakText(safeText, lang);
+      speakText(value.dataset.speechText, lang);
     });
 
     row.appendChild(value);
